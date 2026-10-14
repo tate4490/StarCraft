@@ -264,7 +264,9 @@ No upgrades.
 
 ## Protoss Tactical Cards
 
-| Card | PE | Unique | Army Slot Requirement |
+*Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
+
+| Card | Resource (PE) | Unique | Army Slot Requirement |
 |---|---|---|---|
 | Khalai (Faction Card) | 1 | Yes | 3 × Core, 2 × Elite, 1 × Hero |
 | Gate Chronoboosted | 1 | Yes | 1 × Core, 1 × Elite |
@@ -344,5 +346,4 @@ No upgrades.
 ## Open Items
 
 - Speed values are read as printed on the upright card face (for example, Zealot shows 4/7).
-- Protoss Nerazim Watchers (Adept) and Zeratul have no upgrade cards on the W2 sheets.
-- Mission and deployment card text is not included in this file.
+- Mission card text is in `SCTMG Missions.md`. Deployment cards are graphical and are not transcribed.

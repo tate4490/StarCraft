@@ -212,7 +212,9 @@ Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card tex
 
 ## Terran Tactical Cards
 
-| Card | CP | Unique | Army Slot Requirement |
+*Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
+
+| Card | Resource (CP) | Unique | Army Slot Requirement |
 |---|---|---|---|
 | Academy | 1 | Yes | 2 × Support |
 | Barracks | 1 | No | 1 × Core |

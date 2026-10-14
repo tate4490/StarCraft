@@ -2,7 +2,7 @@
 
 Source: Zerg P2P Card Sheets (A4) and Zerg P2P W2 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`.
 
-Not found on the supplied Zerg card sheets: Vileling (Zergling), Zagara, Bile Launcher, Defiler, Defiler Mound, Reactive Creep. These appear in the Cost Table only.
+Not yet published: Vileling (Zergling), Zagara, Bile Launcher, Defiler, Defiler Mound, Reactive Creep.
 
 ## Unit Statistics
 
@@ -307,7 +307,9 @@ No upgrades.
 
 ## Zerg Tactical Cards
 
-| Card | BM | Unique | Army Slot Requirement |
+*Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
+
+| Card | Resource (BM) | Unique | Army Slot Requirement |
 |---|---|---|---|
 | Evolution Chamber | 1 | No | 1 × Core |
 | Overseer | 1 | Yes | 1 × Support |
@@ -318,7 +320,7 @@ No upgrades.
 | Lair | 1 | Yes | 1 × Core, 1 × Elite |
 | Spawning Pool | 1 | No | 1 × Core |
 | Spawning Pool (Six Pool) | 2 | Yes | 2 × Core |
-| Cocoon | Not printed | Yes | 1 × Elite |
+| Cocoon | None printed | Yes | 1 × Elite |
 
 **Evolution Chamber**
 - **CARAPACE:** REACTION Use before a Friendly Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.
@@ -361,7 +363,9 @@ No upgrades.
 
 ## Zerg Faction Cards
 
-| Card | BM | Unique | Army Slot Requirement |
+*Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
+
+| Card | Resource (BM) | Unique | Army Slot Requirement |
 |---|---|---|---|
 | Zerg Swarm | 1 | Yes | 3 × Core, 1 × Elite, 1 × Support, 1 × Air |
 | Kerrigan's Swarm | 1 | Yes | 3 × Core, 2 × Elite, 1 × Hero |
@@ -400,5 +404,5 @@ No upgrades.
 ## Open Items
 
 - Speed values are read as printed on the upright card face (for example, Zergling shows 4/8).
-- Cocoon does not print a BM cost on the supplied card sheet.
-- The Cost Table lists Zerg tactical and creep cards under "Vespene Gas Cost"; the card faces print BM.
+- Cocoon prints no resource value on the card sheet.
+- The Cost Table labels Zerg tactical and creep values "Vespene Gas Cost"; the card faces label them BM.
