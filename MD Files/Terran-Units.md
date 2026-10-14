@@ -2,18 +2,16 @@
 
 Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`. Supply Values per model count are also in the cost table.
 
-**Speed check:** the speed value is shown as `7/4` for multi-model units below. The card face displays this speed box rotated, and the orientation has not been confirmed against the printed card. Check before relying on it.
-
 ## Unit Statistics
 
 | Unit | HP | Armour | Evade | Size | Speed | Army Slot | Combat Role | Combat Tags | Faction Tags |
 |---|---|---|---|---|---|---|---|---|---|
-| Marine | 2 | 5+ | 5+ | 2 | 7/4 | Core | Damage Dealer | Biological, Light, Ground | Terran |
-| Marauder | 5 | 4+ | 6+ | 2 | 7/4 | Core | Tank | Armoured, Biological, Ground | Terran |
-| Medic | 2 | 5+ | 5+ | 2 | 7/4 | Support | Lifesaver | Biological, Light, Ground | Terran |
+| Marine | 2 | 5+ | 5+ | 2 | 4/7 | Core | Damage Dealer | Biological, Light, Ground | Terran |
+| Marauder | 5 | 4+ | 6+ | 2 | 4/7 | Core | Tank | Armoured, Biological, Ground | Terran |
+| Medic | 2 | 5+ | 5+ | 2 | 4/7 | Support | Lifesaver | Biological, Light, Ground | Terran |
 | Jim Raynor | 8 | 4+ | 5+ | 2 | 7 | Hero | Tactician | Biological, Ground | Terran |
 | Point Defense Drone | 3 | 6+ | 6+ | - | - | - | Lifesaver | Armoured, Flying, Mechanical | Terran, Raynor's Raiders |
-| Raynor's Raider | 2 | 5+ | 5+ | 2 | 7/4 | Core | Damage Dealer | Biological, Light, Ground | Terran, Raynor's Raiders |
+| Raynor's Raider | 2 | 5+ | 5+ | 2 | 4/7 | Core | Damage Dealer | Biological, Light, Ground | Terran, Raynor's Raiders |
 | Goliath | 10 | 4+ | - | 3 | 7 | Elite | Damage Dealer | Armoured, Mechanical, Ground | Terran |
 | Siege Tank | 14 | 5+ | - | 2 | 7 | Elite | Damage Dealer | Armoured, Mechanical, Ground | Terran |
 
