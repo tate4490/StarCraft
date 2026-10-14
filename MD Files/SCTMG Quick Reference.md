@@ -1,6 +1,6 @@
 # PART 12: QUICK REFERENCE
 
-Part of [SCTMG Core Rules](../SCTMG%20Core%20Rules.md). Source pages 92 to 95. Tables for 12.10 onward (source pages 94 to 113) are not reproduced here. See the note in 12.10.
+Part of [SCTMG Core Rules](../SCTMG%20Core%20Rules.md).
 
 This Part compiles the most frequently referenced rules, sequences and tables into a single location for quick reference during play. It is not a substitute for the full rules, but it should answer most questions that arise mid-game without the need to search through earlier Parts.
 
@@ -26,8 +26,6 @@ Close Combat Attack
 
 PHASE 4: SCORING & CLEANUP
 Control Markers, Score VP, End of Game Check, End of the Round Effects, Cleanup, Initiative
-
-> The arrows in the source diagram are not in the text layer. The Phase 4 order above is taken from Part 12.6.
 
 ## 12.3 PHASE 1: MOVEMENT
 
@@ -85,6 +83,13 @@ Actions:
 
 Pass only when no Engaged Units remain.
 
+**Close Combat Attack:**
+
+1. Close Ranks (Optional): Move Leading Model up to 3” - must end closer to the enemy. Reposition the rest of the Unit for maximum Base-to-Base.
+2. Declare Ranks: Fighting Rank (Within 1”) + Supporting Rank (Base-to-Base with Fighting Rank model). Models in those ranks are eligible for attacking in step 3.
+3. Roll Attacks: Follow the Ranged Attack sequence, but as a target, choose an Enemy Engaged with this Unit.
+4. Remove Casualties: Use Engaged Unit priority (Priority 1 → 2 → 3).
+
 ## 12.6 PHASE 4: SCORING & CLEANUP
 
 1. Control: Sum Supply Within 3” of each Marker. Higher total controls. Ties = Contested.
@@ -109,13 +114,6 @@ Engaged target (strict order):
 
 Cannot remove a model if doing so breaks Engagement with an enemy, provided another valid casualty exists.
 
-**Close Combat Attack:**
-
-1. Close Ranks (Optional): Move Leading Model up to 3” - must end closer to the enemy. Reposition the rest of the Unit for maximum Base-to-Base.
-2. Declare Ranks: Fighting Rank (Within 1”) + Supporting Rank (Base-to-Base with Fighting Rank model). Models in those ranks are eligible for attacking in step 3.
-3. Roll Attacks: Follow the Ranged Attack sequence, but as a target, choose an Enemy Engaged with this Unit.
-4. Remove Casualties: Use Engaged Unit priority (Priority 1 → 2 → 3).
-
 ## 12.8 TEMPLATE WEAPONS
 
 | | BLAST (bt) | FLAMER (ft) |
@@ -126,8 +124,6 @@ Cannot remove a model if doing so breaks Engagement with an enemy, provided anot
 | Surge Die | No Surge Die is rolled | No Surge Die is rolled |
 | LoS check | From the target model's base to each model | From the attacker base through the template to each model |
 | Spillover | Resolve each affected Unit as a separate Batch. Do not apply Rate of Attack modifiers or Surge to Spillover attacks | Resolve each affected Unit as a separate Batch. Do not apply Rate of Attack modifiers or Surge to Spillover attacks |
-
-> The row labels and cell text are taken from the source table. Layout was reconstructed from the text layer and should be checked against the printed page 94.
 
 ## 12.9 DISPUTE RESOLUTION
 
@@ -143,4 +139,4 @@ This rule exists to keep the game moving, not to provide a tactical loophole.
 
 This section lists the Mineral Cost and available Composition Options for each Unit in the game. When mustering a Unit during Army Building (Part 9.1.6), select one Composition Option from the Unit’s entry below. The chosen option determines the number of models in the Unit, the Mineral Cost paid, and the Unit’s initial Supply Value as shown on its Unit Card’s Supply Profile. Upgrade costs are listed separately beneath each Unit’s Composition Options. A purchased upgrade applies to every model in the Unit unless it has the SPECIALIST keyword (Part 9.1.7).
 
-> **Not reproduced:** The unit tables (source pages 96 to 106) are not in this file. Unit Mineral Costs, Composition Options, Supply Values and upgrade costs come from the latest StarCraft-TMG-Cost-Table-MM.YYYY_EN file. See SCTMG File Guide.md.
+The unit tables are not reproduced here. Unit Mineral Costs, Composition Options, Supply Values and upgrade costs come from the latest StarCraft-TMG-Cost-Table-MM.YYYY_EN file (see SCTMG File Guide.md).
