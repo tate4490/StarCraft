@@ -1,6 +1,6 @@
 # SCTMG Keywords
 
-*StarCraft: Tabletop Miniature Game, Core Rules Book, Part 11: Keyword Glossary and Definitions (pp. 82–91). Text is verbatim from the source PDF except for the one correction noted below.*
+*StarCraft: Tabletop Miniature Game, Core Rules Book, Part 11: Keyword Glossary and Definitions. Text is verbatim from the source PDF except for the one correction noted below.*
 
 > **Correction:** In the ENGAGEMENT RANGE entry, the source reads "Charge (Part 8.6.2)". Part 8.6.2 is Assault Phase passing. The Charge action is Part 8.7.7, so that reference is changed here.
 
