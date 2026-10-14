@@ -19,110 +19,175 @@
 
 **Tags**: Biological, Light, Ground (standard); Armoured, Mechanical (vehicles); Flying, Mechanical (drone); Unique (heroes)
 
-## Unit Abilities Summary
+## Unit Abilities
 
 ### Marine
-- **Strike** (Combat): E range, 1 RoA, 5+ hit, 1 damage
-- **C-14 Rifle** (Assault): 12" range, 2 RoA, 3+ hit, Light surge (D3), 1 damage
-- **STIMPACK** (Active, Movement): 1 CP - NON-LETHAL DAMAGE (2), Speed buff (3), PRECISION (3) on Close Combat
-- **Combat Shield** (Active, Movement): 1 CP - Always eligible for Evade against Close Combat and Special Ability damage
-- Upgrades: Bayonet (replaces Strike), AGG-12/Rocket Launcher (for C-14), Slugthrower, Grenades-Frag
+
+**Combat Phase Abilities:**
+- Strike (Close Combat): E range, 1 RoA, 5+ hit, 1 damage
+
+**Assault Phase Abilities:**
+- C-14 RIFLE: 12" range, 2 RoA, 3+ hit, Light surge (D3), 1 damage, BURST FIRE 8" (3), SPECIALIST
+- ROCKET LAUNCHER: 12" range, 4 RoA, 3+ hit, - surge, - S Dice, 1 damage, INDIRECT FIRE, LONG RANGE 18" (8"), SIDEARM, SPECIALIST
+
+**Other Abilities:**
+- SLUGTHROWER (Passive): When this Unit makes a Ranged Attack with a C-14 Rifle and the target is Within 8", that weapon gains ANTI-EVADE (1).
+- GRENADES - FRAG (Passive): When this Unit makes a Ranged Attack with a C-14 Rifle and the target is Within 8", that weapon's S Dice is replaced by D6.
+- COMBAT SHIELD (Active, Movement): 1 CP - This Unit is always eligible to make an Evade Roll against any Close Combat Attack targeting it and any Damage from an Enemy Special Ability.
 
 ### Marauder
-- **Strike** (Combat): E range, 1 RoA, 4+ hit, 1 damage
-- **Quad K12** (Assault): 12" range, 3 RoA, 3+ hit, Armoured surge (D3), 1 damage, PIERCE Armoured (2)
-- **STIMPACK** (Active, Movement): 1 CP - NON-LETHAL DAMAGE (2), Speed buff (3), PRECISION (2) on Close Combat
-- **CONCUSIVE SHELLS** (Reaction, Assault): 1 CP - When enemy within 8" declares Charge, gain Speed debuff (2)
-- Upgrades: Bayonet, Laser Targeting Systems (Quad K12 +16"), Veteran of Tarsonis, Kinetic Foam
+
+**Combat Phase Abilities:**
+- Strike (Close Combat): E range, 1 RoA, 4+ hit, 1 damage
+
+**Assault Phase Abilities:**
+- QUAD K12: 12" range, 3 RoA, 3+ hit, Armoured surge (D3), 1 damage, PIERCE Armoured (2)
+
+**Any Phase Abilities:**
+- VETERAN OF TARSONIS (Passive): While this Unit is Within 3" of a Mission Marker, its Armour characteristic is increased by 1.
+- KINETIC FOAM (Passive): Increase this Unit's Hit Points characteristic by 1.
+- LASER TARGETING SYSTEMS (Passive): This Unit's Quad K12 weapon gains LONG RANGE (16").
 
 ### Medic
-- **Strike** (Combat): E range, 1 RoA, 5+ hit, 1 damage
-- **MEDPACK** (Active, Movement): 1 CP - HEAL (X) where X = friendly biologicals within 4"
-- **OPTICAL FLARE** (Active, Movement): 2 CP - Debuff enemy unit within 12", LONG RANGE (4)
-- **LIFE SUPPORT** (Reaction, Movement): 1 CP - Reduce incoming Damage by 1
-- **RESTORATION** (Reaction, Movement): 1 CP - Remove all DEBUFFS from friendly within 4"
-- Upgrades: Advanced Medic Facilities, A-13 Flash Grenade Launcher, Stabilizer Medpacks
+
+**Combat Phase Abilities:**
+- Strike (Close Combat): E range, 1 RoA, 5+ hit, 1 damage
+
+**Any Phase Abilities:**
+- ADVANCED MEDIC FACILITIES (Passive): This Unit's Supply Value counts as 0 when calculating the Supply Pool.
+- A-13 FLASH GRENADE LAUNCHER (Passive): Increase the Optical Flare special ability's Range to 16".
+- STABILIZER MEDPACKS (Passive): When this Unit resolves a Life Support or Medpack ability, treat it as having 1 additional model Within Range for calculating that ability's effects.
 
 ### Jim Raynor
-- **Bayonet** (Combat): E range, 2 RoA, 4+ hit, Light surge (D3), 1 damage
-- **Commando Rifle** (Assault): 12" range, 6 RoA, 3+ hit, Light surge (D3+1), 1 damage, BURST FIRE 8" (3)
-- **"Justice" Revolver** (Assault): 6" range, 2 RoA, 3+ hit, PINPOINT, ANTI-EVADE (2), SIDEARM
-- **ORDERS** (Active, Movement, Repeatable): X CP - Target friendly biological within 8", spend CP for effects
-- **COMMANDER** (Passive): Supply +1 for controlling/contesting/disengage
-- **FREEDOM FIGHTERS** (Passive): Friendly biologicals within 8" cannot have Supply reduced below 1
+
+**Assault Phase Abilities:**
+- C-14 RIFLE (For Commando Rifle): 12" range, 6 RoA, 3+ hit, Light surge (D3+1), 1 damage, BURST FIRE 8" (3)
+
+**Other Abilities:**
+- Orders (Active, Movement, Repeatable): Target friendly biological unit within 8", spend CP for effects
 
 ### Point Defense Drone
-- **POINT DEFENSE LASER** (Passive): Remove up to 2 INSTANT dice from friendly unit's attack within 4"
-- **GLIDING** (Passive): DISPLACEMENT, cannot be activated, treated as Supply 0
-- **STRUCTURE** (Passive): Cannot control/contest markers, cannot be targeted by abilities
+
+**Any Phase Abilities:**
+- POINT DEFENSE LASER (Passive): Reduce up to 2 INSTANT dice from friendly unit's attack within 4" on the roll.
+- GLIDING (Passive): Displacements cannot be activated, treated as Supply 0.
+- STRUCTURE (Passive): Cannot control or contest markers, cannot be targeted by abilities.
 
 ### Raynor's Raider (Marine)
-- **Bayonet** (Combat): E range, 2 RoA, 5+ hit, 1 damage
-- **C-14 Rifle** (Assault): 12" range, 2 RoA, 3+ hit, Light surge (D3), 1 damage
-- **SLUGTHROWER** (Passive): Within 8" grants ANTI-EVADE (1)
-- **GRENADES - FRAG** (Passive): Within 8" changes S Dice to D6
-- **STIMPACK** (Active, Assault): 1 CP - NON-LETHAL DAMAGE (2), BUFF Speed (3) + PRECISION (3) on Close Combat, reduced cost from Reserves
-- **RAIDERS ROLL!** (Passive): Deploy from Reserves with reduced CP cost
-- **RAPID REINFORCEMENTS** (Passive): Deploy via PLACE (10) without standard restrictions
-- Upgrades available
+
+**Assault Phase Abilities:**
+- SLUGTHROWER (Passive): Within 8" grants ANTI-EVADE (1).
+- GRENADES - FRAG (Passive): Within 8" changes S Dice to D6.
+
+**Other Abilities:**
+- STIMPACK (Active, Assault): 1 CP - This Unit suffers NON-LETHAL DAMAGE (2). This Unit gains BUFF Speed (3). Additionally, its C-14 Rifle and all Close Combat Weapons gain PRECISION (3).
 
 ### Goliath
-- **Stomp** (Combat): E range, 4 RoA, 5+ hit, 1 damage
-- **Autocannon** (Assault): 12" range, 9 RoA, 4+ hit, LONG RANGE (18"), 1 damage
-- **Underbelly Machine Gun** (Assault): 8" range, 6 RoA, 3+ hit, Light surge (D3), PINPOINT, SIDEARM, ANTI-EVADE (1), 1 damage
-- **Hellfire Missiles** (Assault): 16" range (flying only), 6 RoA, 3+ hit, Light surge (D3), ANTI-EVADE (1), SIDEARM, 1 damage
-- **INDOMITABLE** (Passive, Assault): While Engaged, can target/be targeted by Unengaged enemies, gain Evade Roll
-- **DEVASTATING CHARGE** (Passive): Immediately after successful Charge, IMPACT (4) 3+
-- **TARGET LOCK** (Active, Movement): 1 CP - Enemy unit within 12", its Autocannon gains Surge Type Light, S Dice D3+1, Armoured
-- Upgrades: ARES-CLASS TARGETING SYSTEM (Precision 1)
+
+**Assault Phase Abilities:**
+- SCATTER MISSILES (For Hellfire Missiles): 18" range, 6 RoA, 5+ hit, Light surge (D3), 1 damage, INDIRECT FIRE, LOCKED IN (6), LONG RANGE (24"), SIDEARM
+- HAYWIRE MISSILES (For Hellfire Missiles): 12" range, 3 RoA, 3+ hit, Armoured surge (D3), 1 damage, PIERCE Armoured (3), SIDEARM
+
+**Any Phase Abilities:**
+- ARES-CLASS TARGETING SYSTEM (Passive): This Unit's Autocannon and Underbelly Machine Gun weapons gain PRECISION (1).
 
 ### Siege Tank
-- **Rolling Over** (Combat): E range, 2 RoA, 2+ hit, 1 damage
-- **Twin Cannon** (Assault): 12" range, 8 RoA, 3+ hit, Armoured surge (D6), PIERCE Armoured (2), 1 damage
-- **Shock Cannon** (Assault): 18" range, variable RoA based on mode, 4+ hit, Armoured surge, BT template
-- **INDOMITABLE** (Passive): While Engaged, can target/be targeted by Unengaged enemies, gain Evade
-- **POINT BLANK** (Passive): While in Siege Mode, cannot target Engaged units
-- **AFTERSHOCK ROUNDS** (Passive): While in Siege Mode, Damage treated as Size of target (minimum 1)
-- **DEVASTATING CHARGE** (Passive): Immediately after successful Charge, IMPACT (4) 3+
-- **LARGE** (Passive): Cannot pass through gaps smaller than 3"
-- **HEAVY PLATING** (Passive): Gains TOUGH (1) on Armour Rolls without Siege Mode
-- **MODE TRANSFORMATION** (Active, Movement): 1 CP - Gain/lose Siege Mode Status (Size becomes 3)
-- **COORDINATED STRIKE** (Active, Movement): 0 CP - Shock Cannon ignores range, targets within 8" of friendly unit
-- **SHAPED BLAST** (Reaction, Assault): 0 CP, Once per Game - Gain PINPOINT + LOCKED IN (4)
-- **SMART SHELLS** (Reaction, Assault): 0 CP, Once per Game - Gain INDIRECT FIRE + LONG RANGE (24)
-- Upgrades: POUND 'EM FLAT! (Precision 2 in Siege Mode), Field Repair (HEAL 2), Factory (Tech Lab)
+
+**Movement Phase Abilities:**
+- MODE TRANSFORMATION (Active): 1 CP - Gain or lose the SIEGE MODE Status. While this Status is active, this Unit gains or loses the SIEGE MODE Status. While this Status is active, its Size characteristic is treated as if it was 3.
+
+**Assault Phase Abilities:**
+- SHAPED BLAST (Reaction): 0 CP, Once per Game - When this Unit declares a Ranged Attack action. If this Unit has SIEGE MODE Status, its weapon gains PINPOINT and LOCKED IN (4).
+- SMART SHELLS (Reaction): 0 CP, Once per Game - When this Unit declares a Ranged Attack action. If this Unit has SIEGE MODE Status, its weapon gains INDIRECT FIRE and LONG RANGE (24).
+
+**Other Abilities:**
+- COORDINATED STRIKE (Active): 0 CP - Target a friendly Non-Engaged Unit on the battlefield (Line of Sight is not required). When this Unit resolves a Ranged Attack using the Shock Cannon weapon profile this Round, it may choose to ignore the weapon's standard Range characteristic. If it does, it may target any Enemy Unit that is Within 8" of, and Visible to, a model of the selected Friendly Unit, treating that model as the acting model.
 
 ---
 
-## Tactical Cards
+## Tactical Cards (Wave 1 & 2)
 
-| Card | Supply | CP Cost | Notes |
-|------|--------|---------|-------|
-| Barracks | 1 ×Core | 1 | GO! GO! GO! (Move 2"), INFANTRY WEAPONS (Crit Hit 1), INFANTRY ARMOR (Tough 1) |
-| Academy | 2 ×Support | 1 | ADVANCED TRAINING (Reduce Support ability cost by 1) |
-| Engineering Bay | 1 ×Core | 1 | FIELD REPAIR (Heal 2), VEHICLE WEAPONS (Crit Hit 1), VEHICLE PLATING (Tough 1) |
-| Supply Depot | 1 ×Core, 1 ×Elite, 1 ×Hero | 1 | ADDITIONAL SUPPLY DEPOTS (Supply +1 for markers) |
-| Dropship | 1 ×Core, 1 ×Support | 1 | STRAP IN! (Return to Reserves), READY FOR DUST-OFF (Deploy from marker) |
-| Orbital Command | 1 ×Core | 1 | COMSAT STATION (Block deployment edge), SCANNER SWEEP (Remove Hidden) |
-| Raynor's Raiders | 3 ×Core, 1 ×Hero, 1 ×Support, 1 ×Air | Unique | RAPID INGRESS (Deploy Point Defense), READY FOR PICKUP? (Place 12, once per game) |
-| Factory (Tech Lab) | 2 ×Elite | 2 | GO! GO! GO! (Move 2"), LET'S HAVE A BLAST! (Anti-Evade 1) |
-| Barracks (Tech Lab) | 1 ×Core, 1 ×Elite | 1 | FIELD REPAIR (Heal 2), VEHICLE WEAPONS (Crit Hit 1), VEHICLE PLATING (Tough 1) |
-| Armory | 1 ×Elite | 2 | GO! GO! GO! (Move 2"), ARMED AND READY (Deploy from any edge) |
-| Barracks (Proxy) | 2 ×Core | Unique | GO! GO! GO! (Move 2"), ARMED AND READY (Deploy from any edge) |
+### Barracks
+- **Supply**: 1 ×Core
+- **CP Cost**: 1
+- **INFANTRY WEAPONS**: Crit Hit (1) - Provides bonuses to infantry weapon attacks
+- **INFANTRY ARMOR**: Tough (1) - Provides armor bonuses to infantry
+- **GO! GO! GO!**: Move 2" - Provides movement bonus
+
+### Engineering Bay
+- **Supply**: 1 ×Core
+- **CP Cost**: 1
+- **VEHICLE WEAPONS**: Crit Hit (1)
+- **VEHICLE PLATING**: Tough (1)
+- **FIELD REPAIR**: Heal 2 - Repairs vehicles
+
+### Academy
+- **Supply**: 2 ×Support
+- **CP Cost**: 1
+- **ADVANCED TRAINING**: Reduce Support ability cost by 1
+
+### Supply Depot
+- **Supply**: 1 ×Core, 1 ×Elite, 1 ×Hero
+- **CP Cost**: 1
+- **ADDITIONAL SUPPLY DEPOTS**: Supply +1 for markers
+
+### Factory (Tech Lab)
+- **Supply**: 2 ×Elite
+- **CP Cost**: 2
+- **GO! GO! GO!**: Move 2"
+- **LET'S HAVE A BLAST!**: Anti-Evade (1)
+
+### Orbital Command
+- **Supply**: 1 ×Core
+- **CP Cost**: 1
+- **COMSAT STATION**: Block deployment edge
+- **SCANNER SWEEP**: Remove Hidden
+
+### Dropship
+- **Supply**: 1 ×Core, 1 ×Support
+- **CP Cost**: 1
+- **STRAP IN!**: Return to Reserves
+- **READY FOR DUST-OFF**: Deploy from marker
+
+### Raynor's Raiders
+- **Supply**: 3 ×Core, 1 ×Hero, 1 ×Support, 1 ×Air
+- **Unique Card**
+- **RAPID INGRESS**: Deploy Point Defense
+- **READY FOR PICKUP?**: Place 12, once per game
+
+### Barracks (Tech Lab)
+- **Supply**: 1 ×Core, 1 ×Elite
+- **CP Cost**: 1
+- **FIELD REPAIR**: Heal 2
+- **VEHICLE WEAPONS**: Crit Hit (1)
+- **VEHICLE PLATING**: Tough (1)
+
+### Armory
+- **Supply**: 1 ×Elite
+- **CP Cost**: 2
+- **GO! GO! GO!**: Move 2"
+- **ARMED AND READY**: Deploy from any edge
+
+### Barracks (Proxy)
+- **Supply**: 2 ×Core
+- **Unique Card**
+- **GO! GO! GO!**: Move 2"
+- **ARMED AND READY**: Deploy from any edge
 
 ---
 
 ## Faction Cards
 
-**Terran Armed Forces**
-- Unique, Terran faction
-- Supply: 3 ×Core, 1 ×Elite, 1 ×Support, 1 ×Air
-- Resource: 1 CP
-- TACTICAL RETREAT (Active): Ignore Disengage penalty
-- TERRAN TENACITY (Active, Once per Game): Claim First Player Marker
+### Terran Armed Forces
+- **Type**: Unique, Terran faction
+- **Supply**: 3 ×Core, 1 ×Elite, 1 ×Support, 1 ×Air
+- **Resource**: 1 CP
+- **TACTICAL RETREAT (Active)**: Ignore Disengage penalty
+- **TERRAN TENACITY (Active, Once per Game)**: Claim First Player Marker
 
-**Raynor's Raiders**
-- Unique, Terran + Raynor's Raiders faction
-- Supply: 3 ×Core, 1 ×Hero, 1 ×Support, 1 ×Air
-- Resource: 1 CP
-- Same special abilities as Terran Armed Forces
+### Raynor's Raiders
+- **Type**: Unique, Terran + Raynor's Raiders faction
+- **Supply**: 3 ×Core, 1 ×Hero, 1 ×Support, 1 ×Air
+- **Resource**: 1 CP
+- **TACTICAL RETREAT (Active)**: Ignore Disengage penalty
+- **RAYNOR'S FIELD COMMAND (Active, Once per Game)**: Target a friendly biological unit, gain special effects

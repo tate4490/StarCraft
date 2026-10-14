@@ -44,11 +44,13 @@
 - Upgrades available
 
 ### Adept
-- **Strike** (Combat): E range, 1 RoA, 4+ hit, 1 damage
-- **Glaive Cannon** (Assault): 8" range, 2 RoA, 3+ hit, Light surge (D3+1), ANTI-EVADE (1), 1 damage
-- **PSIONIC TRANSFER** (Active, Movement): 1 PE - Set Shade token within 12", teleport models at end of round via Shade
-- **PSIONIC PRESENCE** (Passive): All weapons within 4" of Shade gain PRECISION (1)
-- Upgrades: Glaive Strike (melee upgrade), Resonating Glaves (RoA +1), Guidance (Anti-Evade +2)
+
+**Assault Phase Abilities:**
+- RESONATING GLAIVES (Active): This Unit's Glaive Cannon gains BUFF RoA (1).
+- GUIDANCE (Passive): This Unit's Glaive Cannon Ranged weapon gains ANTI-EVADE (2).
+
+**Combat Phase Abilities:**
+- GLAIVE STRIKE (Combat): E range, 1 RoA, 4+ hit, Light surge (D3), 1 damage, PIERCE Light (2)
 
 ### Nerazim Watcher (Adept Variant)
 - **Strike** (Combat): E range, 1 RoA, 3+ hit, 1 damage

@@ -81,11 +81,16 @@
 - **UNDERDEVELOPED CLAWS** (Passive): Cannot gain Burrowed Status
 
 ### Hydralisk
-- **Scythe** (Combat): E range, 2 RoA, 4+ hit, 1 damage
-- **Needle Spines** (Assault): 12" range, 3 RoA, 3+ hit, Light/Armoured surge (D3+1), 1 damage
-- **LUNGE** (Reaction, Assault): 1 BM - After attack resolves, Unengaged Friendly within 10" may move DIRECTLY TOWARDS
-- **SQUADRON** (Passive): Horizontal Coherency 4"
-- Upgrades: Grooved Spines (Long Range 16"), Ancillary Carapace (Tough 1), Lurking (Evade while stationary)
+
+**Any Phase Abilities:**
+- ANCILLARY CARAPACE (Passive): This Unit gains TOUGH (1) on the first Armour Roll of each Activation.
+- LURKING (Passive): If this Unit has Stationary Status, it is eligible to make an Evade Roll against the first Ranged Attack targeting it this Round. If this Unit is on CREEP, it gains +1 Modifier to this Evade Roll.
+
+**Movement Phase Abilities:**
+- BURROW AMBUSH (Passive): When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10" of any Enemy model. This Unit's Activation ends.
+
+**Assault Phase Abilities:**
+- GROOVED SPINES (Passive): This Unit's Needle Spines ranged weapon gains LONG RANGE (16").
 
 ### Queen
 - **Talons** (Combat): E range, 3 RoA, 4+ hit, 1 damage
