@@ -19,12 +19,6 @@
 
 **Tags**: Biological, Light, Ground (standard); Armoured, Mechanical (vehicles); Flying, Mechanical (drone); Unique (heroes)
 
-## Wave 2 Units
-
-| Unit | HP | Armour | Evade | Size | Speed | Supply | Base | Role |
-|------|----|----|----|----|----|----|----|----|
-| Siege Tank | 14 | 5+ | - | 2 (3 Siege) | 7 | 1-1: 2 | 150mm | Elite |
-
 ## Unit Abilities Summary
 
 ### Marine
@@ -100,7 +94,7 @@
 
 ---
 
-## Tactical Cards (Wave 1)
+## Tactical Cards
 
 | Card | Supply | CP Cost | Notes |
 |------|--------|---------|-------|
@@ -111,11 +105,6 @@
 | Dropship | 1 ×Core, 1 ×Support | 1 | STRAP IN! (Return to Reserves), READY FOR DUST-OFF (Deploy from marker) |
 | Orbital Command | 1 ×Core | 1 | COMSAT STATION (Block deployment edge), SCANNER SWEEP (Remove Hidden) |
 | Raynor's Raiders | 3 ×Core, 1 ×Hero, 1 ×Support, 1 ×Air | Unique | RAPID INGRESS (Deploy Point Defense), READY FOR PICKUP? (Place 12, once per game) |
-
-## Tactical Cards (Wave 2)
-
-| Card | Supply | CP Cost | Notes |
-|------|--------|---------|-------|
 | Factory (Tech Lab) | 2 ×Elite | 2 | GO! GO! GO! (Move 2"), LET'S HAVE A BLAST! (Anti-Evade 1) |
 | Barracks (Tech Lab) | 1 ×Core, 1 ×Elite | 1 | FIELD REPAIR (Heal 2), VEHICLE WEAPONS (Crit Hit 1), VEHICLE PLATING (Tough 1) |
 | Armory | 1 ×Elite | 2 | GO! GO! GO! (Move 2"), ARMED AND READY (Deploy from any edge) |
@@ -125,16 +114,15 @@
 
 ## Faction Cards
 
-**Terran Armed Forces** (Wave 1)
+**Terran Armed Forces**
 - Unique, Terran faction
 - Supply: 3 ×Core, 1 ×Elite, 1 ×Support, 1 ×Air
 - Resource: 1 CP
 - TACTICAL RETREAT (Active): Ignore Disengage penalty
 - TERRAN TENACITY (Active, Once per Game): Claim First Player Marker
 
-**Raynor's Raiders** (Included with Wave 1)
+**Raynor's Raiders**
 - Unique, Terran + Raynor's Raiders faction
 - Supply: 3 ×Core, 1 ×Hero, 1 ×Support, 1 ×Air
 - Resource: 1 CP
 - Same special abilities as Terran Armed Forces
-

@@ -67,7 +67,7 @@
 - **REGENERATION** (Passive): When becomes Burrowed (Activated), HEAL (2)
 - Upgrades: Hydriodic Bile, Tunneling Claws, Glia Reconstitution
 
-### Corpser (Roach Variant, Wave 2)
+### Corpser (Roach Variant)
 - **Claws** (Combat): E range, 2 RoA, 4+ hit, Light surge (D3+1), 1 damage
 - **Acid Saliva** (Assault): 8" range, 2 RoA, 3+ hit, 1 damage
 - **REGENERATION** (Passive): When becomes Burrowed (Activated), HEAL (2)
@@ -114,7 +114,7 @@
 - **STRUCTURE** (Passive): Cannot be activated, supply treated as 0, cannot control/contest
 - **OMEGA NETWORK** (Passive): Each round, deploy up to Supply 2 unit via this unit's base
 
-### Ravager (Wave 2)
+### Ravager
 - **Claws** (Combat): E range, 2 RoA, 4+ hit, 1 damage
 - **Plasma Discharge** (Assault): 12" range, 4 RoA, 3+ hit, Light surge (D3+1), 1 damage
 - **DEVASTATING CHARGE** (Passive): Immediately after successful Charge, IMPACT (2) 4+
@@ -162,7 +162,7 @@
 
 ## Faction Cards
 
-**Zerg Swarm** (Wave 1)
+**Zerg Swarm**
 - Unique, Zerg faction
 - Supply: 3 ×Core, 1 ×Elite, 1 ×Support, 1 ×Air
 - Resource: 1 BM
@@ -170,7 +170,7 @@
 - BROOD INSTINCT (Reaction): Before Evade Roll, +1 Modifier
 - ZERG CREEP (Passive): Select exactly one Creep Card and add to army list
 
-**Kerrigan's Swarm** (Wave 1)
+**Kerrigan's Swarm**
 - Unique, Zerg + Kerrigan's Swarm faction
 - Supply: 3 ×Core, 2 ×Elite, 1 ×Hero
 - Resource: 1 BM
@@ -178,4 +178,3 @@
 - LIVING GLOB OF TISSUE (Passive): Creep tokens have Stay in Play and Displacement
 - CREEP REMOVAL (Passive): Creep removed when enemy ends action within 1"
 - ZERG CREEP (Passive): Must select exactly one Creep Card
-

@@ -33,7 +33,7 @@
 - **COMBAT** (Passive): Weapon characteristics
 - Upgrades: We Stand As One (Precision 2 if allied), Zealous Round (Reduce damage by 2), My Life For Aiur (Extra Impact)
 
-### Praetor Guard (Zealot Variant, Wave 2)
+### Praetor Guard (Zealot Variant)
 - **Psi Blades** (Combat): E range, 4 RoA, 3+ hit, Light surge (D3), 1 damage
 - **TITAN KILLERS** (Passive): Against Size 3+ targets, Damage treated as 2
 - **PRECOGNITION** (Passive): Always eligible for Evade against attacks
@@ -50,7 +50,7 @@
 - **PSIONIC PRESENCE** (Passive): All weapons within 4" of Shade gain PRECISION (1)
 - Upgrades: Glaive Strike (melee upgrade), Resonating Glaves (RoA +1), Guidance (Anti-Evade +2)
 
-### Nerazim Watcher (Adept Variant, Wave 2)
+### Nerazim Watcher (Adept Variant)
 - **Strike** (Combat): E range, 1 RoA, 3+ hit, 1 damage
 - **Glaive Cannon** (Assault): 8" range, 3 RoA, 3+ hit, Light surge (D3+1), ANTI-EVADE (1), PINPOINT, 1 damage
 - **PSIONIC TRANSFER** (Active, Movement): 1 PE - Set Shade token within 12", teleport at end of round
@@ -90,7 +90,7 @@
 - **COMMANDER** (Passive): Supply +1 for controlling/contesting/disengage
 - Resources: 1 CP, 1 BM, 1 PE
 
-### Immortal (Wave 2)
+### Immortal
 - **Stomp** (Combat): E range, 3 RoA, 3+ hit, 1 damage
 - **Left/Right Photon Disruptor** (Assault): 12" range, 4 RoA, 3+ hit, Armoured surge (D3), CONCENTRATED FIRE (1), LONG RANGE (16), 1 damage (Sidearm variant)
 - **INDOMITABLE** (Passive): While Engaged, can target/be targeted by Unengaged enemies, gain Evade
@@ -101,7 +101,7 @@
 - **SHIELD OVERCHARGE** (Reaction): 1 PE - Before Armour Roll while Shielded, gain Tough (2)
 - Upgrades: Left/Right Phase Disruptor (replace Photon), Force The Ancients (Precision 1)
 
-### Zeratul (Wave 2)
+### Zeratul
 - **Master Warp Blade** (Combat): E range, 4 RoA, 3+ hit, Light/Armoured surge (D3), INSTANT, 2 damage
 - **SHADOW STRIKE** (Active, Combat): 1 PE - All Engaged Enemies suffer HITS 4 (1)
 - **VOID BLINK** (Active, Movement): 1 PE - PLACE (6) if Unengaged
@@ -131,14 +131,14 @@
 
 ## Faction Cards (Wave 1)
 
-**Khalai** (Wave 1)
+**Khalai**
 - Unique, Protoss + Khalai faction
 - Supply: 3 ×Core, 2 ×Elite, 1 ×Hero
 - Resource: 1 PE
 - BOUND BY THE KHALA (Active, Movement): At end of activation, activate another eligible unit
 - DAE'UHL (Reaction): When Friendly takes damage, reduce by 2 (minimum 1)
 
-**Daelaam** (Wave 1)
+**Daelaam**
 - Unique, Protoss + Daelaam faction
 - Supply: 3 ×Core, 1 ×Elite, 1 ×Support, 1 ×Air
 - Resource: 1 PE
@@ -161,4 +161,3 @@
 - Supply: 2 ×Elite
 - PE Cost: 1
 - PLASMA SHIELDS (Reaction): Mechanical unit before Armour Roll while Shielded, gain Tough (1) and Dodge (1)
-
