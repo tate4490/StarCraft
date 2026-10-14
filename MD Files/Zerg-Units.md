@@ -1,20 +1,26 @@
 # StarCraft TMG: Zerg Units
 
+## Legend
+- **Speed**: Unit speed / Single model speed
+- **Supply**: Model count ranges with their supply costs (e.g., "1-6: 0" = 1–6 models cost 0 supply; "7-12: 1" = 7–12 models cost 1 supply)
+
 ## Core Units
 
-| Unit | HP | Armour | Evade | Size | Speed (Single) | Supply | Base | Role | Notes |
-|------|----|----|----|----|----|----|----|----|------|
-| Zergling | 1 | 4+ | 6+ | 1 | 8/4 | 1-6: 0, 7-12: 1, 13-18: 2 | 32mm | Core (Damage Dealer) | Biological, Light, Ground |
-| Roach | 4 | 3+ | 5+ | 2 | 7/4 | 1-1: 0, 2-3: 1 | 50mm | Core (Tank) | Armoured, Biological, Ground |
-| Roachling | 1 | 6+ | 6+ | 1 | 7/4 | 1-3: 0 | 32mm | Summoned (Tank) | Biological, Light, Ground |
-| Queen | 9 | 4+ | - | 3 | 4 | 1-1: 1 | 80mm | Support (Lifeserver) | Unique, Armoured, Biological, Psionic, Ground |
-| Hydralisk | 4 | 5+ | 5+ | 2 | 8/4 | 1-1: 1, 2-2: 2, 3-4: 3 | 40mm | Elite (Damage Dealer) | Biological, Light, Ground |
-| Kerrigan | 9 | 5+ | 6+ | 2 | 7 | 1-1: 1 | 40mm | Hero (Damage Dealer) | Unique, Biological, Psionic, Ground |
-| Kerrigan Swarm Zergling (Raptor) | 1 | 4+ | 5+ | 1 | 9/5 | 1-3: 0, 4-6: 1 | 32mm | Elite (Damage Dealer) | Unique (Kerrigan's Swarm), Biological, Light, Ground |
-| Omega Worm | 10 | 5+ | - | 3 | - | 1-1: 0 | 80mm | Tactician | Unique (Kerrigan's Swarm), Armoured, Biological, Ground |
-| Corpser (Roach variant) | 10 | 5+ | 5+ | 4 | 7/4 | 1-1: 0, 2-3: 1 | 50mm | Core (Tactician) | Biological, Armoured, Ground, can summon Roachlings |
-| Vile (Roach variant) | 9 | 5+ | 5+ | 2 | 7/4 | 1-1: 0, 2-3: 1 | 50mm | Core (Tank) | Biological, Armoured, Ground |
-| Ravager (Wave 2) | 9 | 5+ | 5+ | 3 | 4/8 | 1-1: 1, 2-2: 2 | 80mm | Core (Tactician) | Biological, Armoured, Ground |
+| Unit | HP | Armour | Evade | Size | Speed | Supply | Base | Role |
+|------|----|----|----|----|----|----|----|----|
+| Zergling | 1 | 4+ | 6+ | 1 | 8/4 | 1-6: 0, 7-12: 1, 13-18: 2 | 32mm | Core |
+| Roach | 4 | 3+ | 5+ | 2 | 7/4 | 1-1: 0, 2-3: 1 | 50mm | Core |
+| Roachling | 1 | 6+ | 6+ | 1 | 7/4 | 1-3: 0 | 32mm | Summoned |
+| Queen | 9 | 4+ | - | 3 | 4 | 1-1: 1 | 80mm | Support |
+| Hydralisk | 4 | 5+ | 5+ | 2 | 8/4 | 1-1: 1, 2-2: 2, 3-4: 3 | 40mm | Elite |
+| Kerrigan | 9 | 5+ | 6+ | 2 | 7 | 1-1: 1 | 40mm | Hero |
+| Raptor | 1 | 4+ | 5+ | 1 | 9/5 | 1-3: 0, 4-6: 1 | 32mm | Elite |
+| Omega Worm | 10 | 5+ | - | 3 | - | 1-1: 0 | 80mm | Tactician |
+| Corpser | 10 | 5+ | 5+ | 4 | 7/4 | 1-1: 0, 2-3: 1 | 50mm | Core |
+| Vile | 9 | 5+ | 5+ | 2 | 7/4 | 1-1: 0, 2-3: 1 | 50mm | Core |
+| Ravager | 9 | 5+ | 5+ | 3 | 4/8 | 1-1: 1, 2-2: 2 | 80mm | Core |
+
+**Tags**: Biological, Light, Ground (standard); Armoured, Biological (roaches/variants); Unique (heroes, summoned); Kerrigan's Swarm (faction units)
 
 ## Unit Abilities Summary
 
@@ -173,12 +179,3 @@
 - CREEP REMOVAL (Passive): Creep removed when enemy ends action within 1"
 - ZERG CREEP (Passive): Must select exactly one Creep Card
 
----
-
-## Notes
-- Shield characteristic is not present on Zerg units
-- Speed values are shown as G/S (Game/Single model)
-- Supply values are shown as model count ranges with their supply values
-- All costs listed are BM (Zerg Resource) unless otherwise noted
-- Creep is a critical mechanic for Zerg - units gain benefits when ON CREEP
-- Burrowed Status allows units to hide and regenerate

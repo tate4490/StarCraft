@@ -1,30 +1,29 @@
 # StarCraft TMG: Terran Units
 
+## Legend
+- **Speed**: Unit speed / Single model speed
+- **Supply**: Model count ranges with their supply costs (e.g., "1-3: 0" = 1–3 models cost 0 supply; "4-6: 1" = 4–6 models cost 1 supply)
+
 ## Core Units
 
-| Unit | HP | Armour | Evade | Size | Speed (Single) | Supply | Base | Role | Notes |
-|------|----|----|----|----|----|----|----|----|------|
-| Marine | 2 | 5+ | 5+ | 2 | 7/4 | 1-3: 0, 4-6: 1, 7-9: 2 | 32mm | Damage Dealer (Core) | Biological, Light, Ground |
-| Marauder | 5 | 4+ | 6+ | 2 | 7/4 | 1-1: 0, 2-2: 1, 3-4: 2 | 50mm | Tank (Core) | Armoured, Biological, Ground |
-| Medic | 2 | 5+ | 5+ | 2 | 7/4 | 1-1: 0, 2-3: 1 | 32mm | Support (Core) | Biological, Light, Ground |
-| Jim Raynor | 8 | 4+ | 5+ | 2 | 7 | 1-1: 1 | 40mm | Hero (Damage Dealer) | Unique, Biological, Ground |
-| Point Defense Drone | 3 | 6+ | 6+ | - | - | 1-1: 0 | 32mm | Support (Lifeserver) | Unique (Raynor's Raiders), Armoured, Flying, Mechanical |
-| Raynor's Raider (Marine) | 2 | 5+ | 5+ | 2 | 7/4 | 1-6: 1 | 32mm | Damage Dealer (Core) | Unique (Raynor's Raiders), Biological, Light, Ground |
-| Goliath | 10 | 4+ | - | 3 | 7 | 1-1: 2 | 80mm | Elite (Damage Dealer) | Armoured, Mechanical, Ground |
-| Siege Tank | 14 | 5+ | - | 2 (3 in Siege Mode) | 7 | 1-1: 2 | 150mm | Elite (Damage Dealer) | Armoured, Mechanical, Ground |
+| Unit | HP | Armour | Evade | Size | Speed | Supply | Base | Role |
+|------|----|----|----|----|----|----|----|----|
+| Marine | 2 | 5+ | 5+ | 2 | 7/4 | 1-3: 0, 4-6: 1, 7-9: 2 | 32mm | Damage Dealer (Core) |
+| Marauder | 5 | 4+ | 6+ | 2 | 7/4 | 1-1: 0, 2-2: 1, 3-4: 2 | 50mm | Tank (Core) |
+| Medic | 2 | 5+ | 5+ | 2 | 7/4 | 1-1: 0, 2-3: 1 | 32mm | Support (Core) |
+| Jim Raynor | 8 | 4+ | 5+ | 2 | 7 | 1-1: 1 | 40mm | Hero |
+| Point Defense Drone | 3 | 6+ | 6+ | - | - | 1-1: 0 | 32mm | Support |
+| Raynor's Raider | 2 | 5+ | 5+ | 2 | 7/4 | 1-6: 1 | 32mm | Damage Dealer |
+| Goliath | 10 | 4+ | - | 3 | 7 | 1-1: 2 | 80mm | Elite |
+| Siege Tank | 14 | 5+ | - | 2 (3 Siege) | 7 | 1-1: 2 | 150mm | Elite |
 
-## Wave 1 Faction Card
-
-**Terran Armed Forces**
-- Faction Tags: Terran
-- Supply: 3 ×Core, 1 ×Elite, 1 ×Support, 1 ×Air
-- Resource: CP (1)
+**Tags**: Biological, Light, Ground (standard); Armoured, Mechanical (vehicles); Flying, Mechanical (drone); Unique (heroes)
 
 ## Wave 2 Units
 
-| Unit | HP | Armour | Evade | Size | Speed (Single) | Supply | Base | Role | Notes |
-|------|----|----|----|----|----|----|----|----|------|
-| Siege Tank | 14 | 5+ | - | 2 (3 in Siege Mode) | 7 | 1-1: 2 | 150mm | Elite (Damage Dealer) | Armoured, Mechanical, Ground |
+| Unit | HP | Armour | Evade | Size | Speed | Supply | Base | Role |
+|------|----|----|----|----|----|----|----|----|
+| Siege Tank | 14 | 5+ | - | 2 (3 Siege) | 7 | 1-1: 2 | 150mm | Elite |
 
 ## Unit Abilities Summary
 
@@ -139,10 +138,3 @@
 - Resource: 1 CP
 - Same special abilities as Terran Armed Forces
 
----
-
-## Notes
-- Shield characteristic is not present on Terran units
-- Speed values are shown as G/S (Game/Single model)
-- Supply values are shown as model count ranges with their supply values
-- All costs listed are CP (Terran Resource)

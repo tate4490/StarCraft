@@ -1,19 +1,26 @@
 # StarCraft TMG: Protoss Units
 
+## Legend
+- **Speed**: Unit speed / Single model speed
+- **Supply**: Model count ranges with their supply costs (e.g., "1-1: 1" = 1 model costs 1 supply; "2-3: 2" = 2–3 models cost 2 supply)
+- **Shield**: Unique to Protoss; represents additional damage absorption separate from HP
+
 ## Core Units
 
-| Unit | HP | Armour | Evade | Size | Speed (Single) | Shield | Supply | Base | Role | Notes |
+| Unit | HP | Armour | Evade | Size | Speed | Shield | Supply | Base | Role |
 |------|----|----|----|----|----|----|----|----|----|----|
-| Zealot | 4 | 5+ | 5+ | 2 | 7/4 | 3 | 1-1: 1, 2-3: 2 | 40mm | Core (Damage Dealer) | Biological, Light, Ground |
-| Adept | 3 | 5+ | 5+ | 2 | 8/5 | 2 | 1-2: 0, 3-4: 1 | 40mm | Core (Damage Dealer) | Biological, Light, Ground |
-| Sentry | 4 | 5+ | 6+ | 1 | 7/4 | 2 | 1-1: 0, 2-2: 1 | 50mm | Support (Lifeserver) | Mechanical, Psionic, Light, Ground |
-| Stalker | 6 | 4+ | 6+ | 3 | 8/4 | 3 | 1-1: 1, 2-2: 2 | 80mm | Elite (Damage Dealer) | Armoured, Mechanical, Ground |
-| Pylon | 8 | 5+ | - | 3 | - | 2 | 1-1: 0 | 80mm | Tactician (Structure) | Armoured, Ground |
-| Artanis | 8 | 5+ | 4+ | 2 | 7 | 4 | 1-1: 1 | 40mm | Hero (Tank) | Unique, Biological, Psionic, Ground |
-| Praetor Guard (Zealot variant) | 4 | 5+ | 5+ | 2 | 7/4 | 3 | 1-1: 1, 2-3: 2 | 40mm | Elite (Damage Dealer) | Unique, Biological, Light, Ground |
-| Immortal (Wave 2) | 8 | 4+ | - | 3 | 7 | 6 | 1-1: 2 | 100mm | Elite (Tank) | Armoured, Mechanical, Ground |
-| Zeratul (Wave 2) | 5 | 5+ | 5+ | 2 | 7 | 3 | 1-1: 1 | 40mm | Hero (Damage Dealer) | Unique, Biological, Psionic, Ground |
-| Nerazim Watcher (Adept variant, Wave 2) | 3 | 5+ | 5+ | 2 | 5/8 | 2 | 1-2: 0, 3-4: 1 | 40mm | Core (Damage Dealer) | Nerazim Protoss, Biological, Light, Ground |
+| Zealot | 4 | 5+ | 5+ | 2 | 7/4 | 3 | 1-1: 1, 2-3: 2 | 40mm | Core |
+| Adept | 3 | 5+ | 5+ | 2 | 8/5 | 2 | 1-2: 0, 3-4: 1 | 40mm | Core |
+| Sentry | 4 | 5+ | 6+ | 1 | 7/4 | 2 | 1-1: 0, 2-2: 1 | 50mm | Support |
+| Stalker | 6 | 4+ | 6+ | 3 | 8/4 | 3 | 1-1: 1, 2-2: 2 | 80mm | Elite |
+| Pylon | 8 | 5+ | - | 3 | - | 2 | 1-1: 0 | 80mm | Structure |
+| Artanis | 8 | 5+ | 4+ | 2 | 7 | 4 | 1-1: 1 | 40mm | Hero |
+| Praetor Guard | 4 | 5+ | 5+ | 2 | 7/4 | 3 | 1-1: 1, 2-3: 2 | 40mm | Elite |
+| Immortal | 8 | 4+ | - | 3 | 7 | 6 | 1-1: 2 | 100mm | Elite |
+| Zeratul | 5 | 5+ | 5+ | 2 | 7 | 3 | 1-1: 1 | 40mm | Hero |
+| Nerazim Watcher | 3 | 5+ | 5+ | 2 | 5/8 | 2 | 1-2: 0, 3-4: 1 | 40mm | Core |
+
+**Tags**: Biological, Light, Ground (standard); Armoured, Mechanical (constructs); Psionic (psions); Unique (heroes); Nerazim (faction units)
 
 ## Unit Abilities Summary
 
@@ -139,10 +146,9 @@
 
 ## Wave 2 Units & Cards
 
-**Nerazim** (Wave 2)
-- Unique, Protoss + Nerazim faction
+**Nerazim** (Wave 2 Faction)
 - Supply: 2 ×Core, 3 ×Elite, 1 ×Hero
-- Includes Zeratul (Hero), Nerazim Watcher (Adept variant), Immortal
+- Units: Zeratul (Hero), Nerazim Watcher (Core), Immortal (Elite)
 
 **Void Seeker** (Wave 2 Tactical)
 - Supply: 1 ×Core
@@ -156,14 +162,3 @@
 - PE Cost: 1
 - PLASMA SHIELDS (Reaction): Mechanical unit before Armour Roll while Shielded, gain Tough (1) and Dodge (1)
 
----
-
-## Notes
-- Shield characteristic IS present on Protoss units - appears in top row stat block
-- All Protoss units have Shield values (varies by unit)
-- Speed values are shown as G/S (Game/Single model)
-- Supply values are shown as model count ranges with their supply values
-- All costs listed are PE (Protoss Resource) unless otherwise noted (CP, BM noted separately)
-- Protoss units emphasize shields, phase-based movement, and psionic abilities
-- Structures like Pylon cannot be activated but provide strategic deployment options
-- Multiple faction options: Khalai, Daelaam, and Nerazim (Wave 2)
