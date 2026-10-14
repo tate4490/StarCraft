@@ -1,6 +1,6 @@
 # PART 1: LEARN TO PLAY
 
-Part of [SCTMG Core Rules](../SCTMG%20Core%20Rules.md).
+Part of [SCTMG Core Rules](SCTMG%20Core%20Rules.md).
 
 ## Worked Example: Starting Rounds
 

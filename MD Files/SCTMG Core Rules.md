@@ -963,100 +963,7 @@ Players build an army with two resources: **Minerals**, used for Units and Upgra
 
 ### 9.1 Army Building
 
-#### 9.1.1 Engagement Scale
-
-Before building an army, players agree on the Engagement Scale:
-
-| Scale | Minerals | Vespene Gas Limit | Battlefield |
-|---|---|---|---|
-| Skirmish | Up to 1,000 | 10% of Minerals | 36" × 36" |
-| Standard | Up to 2,000 | 10% of Minerals | 36" × 54" |
-| Grand Offensive | 2,001+ | 10% of Minerals | 36" × 72" |
-
-#### 9.1.2 Selecting Race and Faction
-
-The player chooses one of the three races (Terran, Zerg, or Protoss) and a single Faction Card. The Faction Card provides the initial Army Slots (e.g., Kerrigan's Swarm: 3x Core, 1x Hero, 2x Support) and determines which Units and Tactical Cards may be included.
-
-**Faction Tag Eligibility.** Every card has Faction Tags. A Faction Card always displays a Race Tag and usually a Sub-Faction Tag. The rule is simple: **every tag on a Unit or Tactical Card must also appear on the Faction Card.** A single missing tag disqualifies the card. Cards with fewer tags than the Faction Card are fine.
-
-> **Example:** A Zerg Swarm Faction Card has one tag, Zerg. Zerglings (Zerg) are eligible. Kerrigan Swarm Raptor (Zerg, Kerrigan's Swarm) is not eligible, because Kerrigan's Swarm does not appear on the Faction Card.
-
-#### 9.1.3 Minerals
-
-Spend Minerals to recruit Units and purchase Upgrades. The total Mineral cost must not exceed the Engagement Scale limit. **Unspent Minerals are lost.**
-
-#### 9.1.4 Vespene Gas
-
-Spend Vespene Gas exclusively on Tactical Cards. It cannot be converted into Minerals. **Unspent Vespene Gas is lost.**
-
-> **Example:** At Standard scale (2,000 Minerals), players have 200 Vespene Gas (10%) to spend on Tactical Cards.
-
-#### 9.1.5 Tactical Cards and Army Slots
-
-Tactical Cards unlock additional Army Slots (Core, Elite, Support, Air, Hero) beyond those provided by the Faction Card. They are bought with Vespene Gas. All Tactical Cards and the Faction Card are set face-up on the table before the game.
-
-- Vespene Gas costs for each card come from the latest Cost Table file (see Part 12.11).
-- If a Tactical Card is marked **Unique**, only one copy may be included.
-
-> **Example:** A Barracks card opens Core slots for Marines. An Academy card opens Support slots for Medics.
-
-#### 9.1.6 Mustering Units
-
-Fill available Army Slots with eligible Units. Each Unit has one or more Composition Options, each listing a model count and its Mineral Cost. The player selects one Composition Option per Unit. This determines the model count and the starting Supply Value.
-
-- A player cannot field a Unit at a model count that is not a listed Composition Option.
-- Each Unit occupies a number of Army Slots equal to its **starting Supply Value**.
-- Pay the Mineral Cost for every Unit recruited.
-- **Unused Army Slots are lost.**
-
-> **Example:** A Zerg player chooses Kerrigan's Swarm, which provides 2 Elite Army Slots. A small Hydralisk Unit (Supply 2) occupies exactly 2 Elite slots. A full-strength Hydralisk Unit (Supply 3) would need 3 Elite slots, so the player would need a Tactical Card that adds one more Elite slot.
-
-#### 9.1.7 Purchasing Upgrades
-
-Each Unit Card displays its available upgrades on the reverse side. During Army Building, a player may purchase any number of listed upgrades, paying the cost for each. Each entry may be purchased once.
-
-- A purchased upgrade applies to every model in the Unit unless it has the **SPECIALIST** keyword. If the upgrade adds a weapon or ability, all models gain it.
-- **FOR [Weapon Name]:** The upgrade replaces the named weapon entirely on every model carrying it.
-- **SPECIALIST upgrades:** Only one model in the Unit may carry each SPECIALIST upgrade. The player nominates that model during Army Building. A Unit may not purchase the same SPECIALIST upgrade more than once, but it can buy different SPECIALIST upgrades, each assigned to a different nominated model.
-- A nominated model resolves its attacks as a separate Batch.
-
-> **Example:** A player buys a Rocket Launcher (SPECIALIST) and an AGG-12 (SPECIALIST, FOR C-14 Rifle) for a Unit of 6 Marines. One Marine carries the Rocket Launcher alongside its C-14 Rifle. A second Marine carries the AGG-12 instead of its C-14 Rifle. The remaining 4 Marines keep their C-14 Rifles.
-
-#### 9.1.8 Team Games
-
-In multiplayer games (2v2, 3v3, Free-For-All), agree on a **Total Mineral Value** per team. Teams divide the budget among players as they wish, within the allowed limits. Each player builds their own army, with their own Faction Card and Tactical Cards. Teammates may choose the same or different Races.
-
-#### 9.1.9 Summoned Units
-
-Some Units, such as the Roachling, Point Defence Drone, and Pylon, have **no Mineral Cost**. These are **Summoned Units**:
-
-- They are not in the Army List and do not occupy Army Slots.
-- They are not in Reserves at the start of the game.
-- They cannot be deployed by the regular rules. They are deployed only when a Special Ability, such as SUMMON, places them on the battlefield.
-- Once on the battlefield, they are Friendly for all rule purposes unless stated otherwise.
-- They are not used for The Final Score.
-- Their Current Supply Value counts toward the player's Total Current Supply.
-
-#### 9.1.10 Army Roster Visibility
-
-**Tournament Override:** Organised tournaments may use their own roster visibility rules, which override the defaults below. Check the Tournament Organiser's rules pack.
-
-**Default: Open Lists.** Both players share their entire army rosters, including all Unit selections, upgrades, and weapon swaps, before the game. This is the recommended way to play.
-
-**Optional: Closed Lists.** Both players may agree to play with Closed Lists. If either player does not agree, use Open Lists.
-
-- Army rosters are hidden. Specific Units are discovered during play as they are deployed.
-- All Tactical Cards and the Faction Card must still be set face-up before the game.
-- Once a Unit is set on the battlefield, its controlling player must immediately inform the opponent of any upgrades or weapon swaps that affect how the Unit behaves.
-- The opponent may inspect the Unit Card and any associated Tactical Cards at any time while the Unit is on the table.
-
-> **Abathur's Tip:** Closed Lists recreate StarCraft's fog of war. Study your opponent's Tactical Cards and Faction Card for clues. The Barracks card suggests Marines and Marauders. Spawning Pool suggests Zerglings. Robotics Facility suggests Colossi and Immortals.
-
-#### 9.1.11 Representation and Disclosure
-
-- Models should, where possible, accurately depict the weapons and equipment on their Unit Card.
-- Where a model does not represent its equipment (for example, a model awaiting conversion, or a Unit with weapon swaps that are not visually distinct), the controlling player must declare all non-represented upgrades and equipment when the Unit is deployed. The controlling player must also remind the opponent of such differences before any action where this information could matter, including declaring Charge targets, selecting Shooting targets, or committing to a critical activation.
-- Failing to disclose non-represented upgrades or equipment is considered **unsportsmanlike conduct**.
+Moved to **MD Files/SCTMG Army Building.md** in the GitHub repository (and the project doc `SCTMG Army Building.md`). That file also includes the Tactical and Faction Card rules from Part 10.5 that apply to army building.
 
 ### 9.2 Mission Selection and the Draft
 
@@ -1186,7 +1093,7 @@ Reaction Abilities respond to specific events as they occur. A Reaction is used 
 
 ### 10.5 Tactical Cards and Faction Cards
 
-Faction Cards define what you are, what doctrine you follow, and what command structure your men follow. Tactical Cards represent facilities, technology, and planning done before the battle.
+The introduction to this section and the Unique rule are moved to **MD Files/SCTMG Army Building.md**. Resources and Costs (10.5.1) and Managing Card States (10.5.2) remain below.
 
 #### 10.5.1 Resources and Costs
 

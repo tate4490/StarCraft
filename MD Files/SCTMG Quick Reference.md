@@ -1,6 +1,6 @@
 # PART 12: QUICK REFERENCE
 
-Part of [SCTMG Core Rules](../SCTMG%20Core%20Rules.md).
+Part of [SCTMG Core Rules](SCTMG%20Core%20Rules.md).
 
 This Part compiles the most frequently referenced rules, sequences and tables into a single location for quick reference during play. It is not a substitute for the full rules, but it should answer most questions that arise mid-game without the need to search through earlier Parts.
 
