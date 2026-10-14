@@ -479,7 +479,7 @@ If the game ends at the Round limit:
 |---|---|
 | Army building, roster legality, army slots | `SCTMG Army Building.md` |
 | Unit and tactical card costs | The latest Cost Table (see `SCTMG File Guide.md`) |
-| Unit statistics and Composition Options | `SCTMG Faction - Terran.md`, `SCTMG Faction - Zerg.md`, `SCTMG Faction - Protoss.md` |
+| Unit statistics and Composition Options | `Terran-Units.md`, `Zerg-Units.md`, `Protoss-Units.md` |
 | Models, Units, bases, tags, player roles, ability types | `SCTMG Core Concepts.md` |
 | Dice, rolls, modifiers, tests | `SCTMG Dice and Rolling.md` |
 | Measuring, Within/Wholly Within, Leading Model, Coherency | Measuring and Movement file (to be created) |

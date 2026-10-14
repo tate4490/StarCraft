@@ -5,7 +5,7 @@ Everything needed to assemble a legal army roster for StarCraft: Tabletop Miniat
 **Where the other data lives**
 
 - Mineral costs, Vespene Gas costs, Composition Option costs and upgrade costs: the latest cost table (the file with the highest month and year in its name, `StarCraft-TMG-Cost-Table-MM.YYYY_EN`). See `SCTMG File Guide.md`.
-- Unit statistics, Composition Options, Supply Profiles and upgrade entries: the faction file for each race, `SCTMG Faction - Terran.md`, `SCTMG Faction - Zerg.md`, `SCTMG Faction - Protoss.md`.
+- Unit statistics, Composition Options, Supply Profiles and upgrade entries: the faction file for each race, `Terran-Units.md`, `Zerg-Units.md`, `Protoss-Units.md`.
 - Keyword definitions (ARMY SLOT, FACTION TAGS, SPECIALIST, SIDEARM and others): `SCTMG Keywords.md`.
 - Play rules, including the draft and battlefield setup: `SCTMG Core Rules.md`.
 
