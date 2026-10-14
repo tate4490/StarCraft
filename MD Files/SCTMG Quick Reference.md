@@ -58,7 +58,7 @@ Available Supply = Supply Pool – Total Supply of Friendly Units on the Battlef
 1. Declare a target: Select an Enemy not Engaged with any other Unit. Check the weapon's Range, LoS and if the target's tag matches.
 2. Build Attack Pool: Sum RoA of eligible models + modifiers + Surge Die (if weapon has S Dice).
 3. Roll to Hit: Each die result equal to or higher than the Hit characteristic is a success and moves to the Armour Pool.
-4. Resolve Surge: If the target's Combat Tag matches the weapon's Surge Type, a number of dice equal to the Surge Die are not included in the Armour Roll.
+4. Resolve Surge: If the target's Combat Tag matches the weapon's Surge Type, move a number of dice equal to the Surge Die result from the Armour Pool directly to the Damage Pool. These bypass Armour entirely. Surge can never move more dice than are currently in the Armour Pool. If it does not match, discard the Surge Die result.
 5. Armour Roll: Each die result equal to or higher than the Armour characteristic is saved and discarded.
 6. Evade Roll: If eligible, each die result equal to or higher than the Evade characteristic is saved and discarded.
 7. Damage & Casualties: Multiply all remaining dice by the weapon's Damage characteristic. Remove models accordingly.
