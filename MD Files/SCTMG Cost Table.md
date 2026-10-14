@@ -1,6 +1,6 @@
 # StarCraft Tabletop: Units and Upgrade Points
 
-Source: "Units and Upgrade Points", dated 9 October 2026.
+Source: "Units and Upgrade Points", file `StarCraft-TMG-Cost-Table-10.2026_EN.pdf`, dated 9 October 2026.
 
 Conventions:
 - **Small / Large**: the first value is the small unit option, the second is the large unit option. A `-` means no large option exists.
