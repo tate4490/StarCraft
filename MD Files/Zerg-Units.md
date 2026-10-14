@@ -2,8 +2,6 @@
 
 Source: Zerg P2P Card Sheets (A4) and Zerg P2P W2 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`.
 
-Not yet published: Vileling (Zergling), Zagara, Bile Launcher, Defiler, Defiler Mound, Reactive Creep.
-
 ## Unit Statistics
 
 | Unit | HP | Armour | Evade | Size | Speed | Army Slot | Combat Role | Combat Tags | Faction Tags |
@@ -320,7 +318,7 @@ No upgrades.
 | Lair | 1 | Yes | 1 × Core, 1 × Elite |
 | Spawning Pool | 1 | No | 1 × Core |
 | Spawning Pool (Six Pool) | 2 | Yes | 2 × Core |
-| Cocoon | None printed | Yes | 1 × Elite |
+| Cocoon | N/A | Yes | 1 × Elite |
 
 **Evolution Chamber**
 - **CARAPACE:** REACTION Use before a Friendly Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.
@@ -404,5 +402,5 @@ No upgrades.
 ## Open Items
 
 - Speed values are read as printed on the upright card face (for example, Zergling shows 4/8).
-- Cocoon prints no resource value on the card sheet.
+- Cocoon's resource value is N/A on the card sheet.
 - The Cost Table labels Zerg tactical and creep values "Vespene Gas Cost"; the card faces label them BM.
