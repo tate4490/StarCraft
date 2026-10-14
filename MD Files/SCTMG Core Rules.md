@@ -969,7 +969,7 @@ Moved to **MD Files/SCTMG Army Building.md** in the GitHub repository (and the p
 
 Players use a short draft to determine the Mission and Deployment.
 
-**What You Need.** Each player brings 2 Mission Cards and 2 Deployment Cards. A player may not bring duplicates within their own set, although both players may bring the same cards. Arrange all cards face-up in two rows: Row 1 is Mission Cards, and Row 2 is Deployment Cards.
+**What You Need.** Each player's 2 Mission Cards and 2 Deployment Cards are covered in the army building file. Arrange all cards face-up in two rows: Row 1 is Mission Cards, and Row 2 is Deployment Cards.
 
 **Step 1: Roll-Off.** The winner makes two choices, in order:
 
