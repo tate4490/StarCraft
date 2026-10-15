@@ -1,6 +1,6 @@
 # StarCraft TMG: Protoss Units and Cards
 
-Source: Protoss P2P Card Sheets (A4) and Protoss P2P W2 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`.
+Source: Protoss P2P Card Sheets (A4), Protoss P2P W2 Card Sheets (A4), and Protoss P2P W3 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`.
 
 ## Unit Statistics
 
@@ -16,6 +16,9 @@ Source: Protoss P2P Card Sheets (A4) and Protoss P2P W2 Card Sheets (A4). Card t
 | Immortal | 6 | 7 | 4+ | - | 8 | 3 | Elite | Tank | Armoured, Mechanical, Ground | Protoss |
 | Zeratul | 3 | 7 | 5+ | 5+ | 5 | 2 | Hero | Damage Dealer | Biological, Psionic, Ground | Protoss |
 | Nerazim Watchers (Adept) | 2 | 5/8 | 5+ | 5+ | 3 | 2 | Core | Damage Dealer | Biological, Light, Ground | Protoss, Nerazim |
+| Tassadar | 3 | 7 | 5+ | 5+ | 6 | 2 | Hero | Tactician | Biological, Psionic, Ground | Protoss |
+| Twilight Templar (High Templar) | 3 | 4/7 | 5+ | 6+ | 3 | 2 | Support | Damage Dealer | Biological, Light, Psionic, Ground | Protoss, Templar Caste |
+| High Templar | 3 | 4/7 | 5+ | 6+ | 3 | 2 | Support | Damage Dealer | Biological, Light, Psionic, Ground | Protoss |
 
 ---
 
@@ -262,6 +265,69 @@ No upgrades.
 
 ---
 
+## Tassadar
+
+**Any Phase**
+- **COMMANDER:** PASSIVE Treat this Unit's Supply characteristic as increased by 1 for Controlling and Contesting Mission Markers, completing objectives, and resolving Disengage checks.
+
+**Movement Phase**
+- **FORCE WALL:** ACTIVE 1 PE Set two Force Wall tokens Wholly Within 8" in an unoccupied space. Units of Size 2 or lower cannot move across the Force Wall. Models of Size 3 or more can move over it, and it's then removed.
+- **KHALA'S GIFT:** ACTIVE 0 PE Target another Friendly Biological Unit Within 12". Until the End of the Round, that Unit resolves its first Special Ability with the cost reduced by 1 (to a minimum of 0).
+- **EXECUTOR'S WILL:** ACTIVE 1 PE Target two Enemy Units on the battlefield (Line of Sight is not required) and place a Faction Indicator next to each of them. During the next Assault Phase, if either of these Units ends its Activation while its Faction Indicator remains on the battlefield, you may Activate two Friendly Units consecutively. Remove both Faction Indicators after any Enemy Unit completes its Activation in the following Assault Phase.
+
+**Assault Phase**
+- **PSI LIGHTNING:** ACTIVE 0 PE Each Unit Within 2" of one or more Friendly Force Wall tokens suffers 1 Damage.
+- **TELEKINETIC PUSH:** ACTIVE 1 PE Set each Friendly Force Wall token Wholly Within 6" of its current position.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Resonance Beam | 12 | All | 6 | 3+ | Armoured | D3 | 1 | INSTANT |
+| Combat | Strike | E | Ground | 6 | 4+ | - | - | 1 | - |
+
+---
+
+## Twilight Templar (High Templar)
+
+**Any Phase**
+- **BOUND BY THE KHALA:** REACTION 0 PE Use when the Current Supply Value of another Friendly Unit Within 8" of this Unit is reduced. Return one Non-Unique Exhausted Tactical Card to the Ready state.
+
+**Movement Phase**
+- **PSIONIC GALE:** ACTIVE 2 PE Set a Psionic Storm token Within 10" and Line of Sight of this Unit. This token is not removed if this Unit is Destroyed. At the End of each Phase, set a Psionic Storm Blast Template on the centre of this token. For each Unit that has at least one model whose base is partially covered by the template, roll 3 dice, plus 1 additional die for each model in that Unit whose base is partially covered. For each result of 4+, that Unit suffers an effect depending on the current Phase: Movement Phase: NON-LETHAL DAMAGE (1). Assault Phase: 1 Damage. If multiple effects trigger at the End of the Assault Phase, resolve them in the order specified in Part 8.9.4.
+- **FEEDBACK:** ACTIVE 1 PE Target one Enemy Mechanical or Psionic Unit Within 8". Until the End of the Round, after that Unit resolves an Active or Reaction Special Ability (excluding abilities granted by a Tactical Card or Faction Card), it suffers NON-LETHAL DAMAGE (3).
+- **WARP-IN:** ACTIVE 1 PE Resolve the PLACE (6) effect.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Psi Blast | 8 | All | 2 | 3+ | Light | D3 | 2 | INSTANT |
+| Combat | Strike | E | Ground | 1 | 4+ | - | - | 1 | - |
+
+---
+
+## High Templar
+
+**Any Phase**
+- **OUR MINDS AS ONE:** PASSIVE While this Unit's Current Supply Value is 2, it gains the following effects: The first Special Ability resolved by this Unit each Round has its PE cost reduced by 1 (to a minimum of 0). Apply a +1 Modifier to the dice rolled for its Psionic Storm Special Ability.
+
+**Movement Phase**
+- **FEEDBACK:** ACTIVE 1 PE Target one Enemy Mechanical or Psionic Unit Within 8". Until the End of the Round, after that Unit resolves an Active or Reaction Special Ability (excluding abilities granted by a Tactical Card or Faction Card), it suffers NON-LETHAL DAMAGE (3).
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Psi Blast | 8 | All | 1 | 3+ | Light | D3 | 2 | INSTANT |
+| Combat | Strike | E | Ground | 1 | 4+ | - | - | 1 | - |
+
+**Upgrades**
+- **PSIONIC STORM:** ACTIVE 2 PE Set a Psionic Storm token Within 10" and Line of Sight of this Unit. This token is not removed if this Unit is Destroyed. At the End of each Phase, set a Psionic Storm Blast Template on the centre of this token. For each Unit that has at least one model whose base is partially covered by the template, roll 3 dice, plus 1 additional die for each model in that Unit whose base is partially covered. For each result of 5+, that Unit suffers an effect depending on the current Phase: Movement Phase: NON-LETHAL DAMAGE (1). Assault Phase: 1 Damage. If multiple effects trigger at the End of the Assault Phase, resolve them in the order specified in Part 8.9.4.
+- **FARSIGHT:** ACTIVE 1 PE Target one Friendly Unit Within 12". Until the End of the Round, that Unit is eligible to make an Evade Roll against any attacks targeting it.
+
+---
+
 ## Protoss Tactical Cards
 
 *Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
@@ -283,6 +349,8 @@ No upgrades.
 | Nerazim (Faction Card) | 1 | Yes | 2 × Core, 3 × Elite, 1 × Hero |
 | Void Seeker | 1 | Yes | 1 × Core |
 | Robotics Facility | 1 | No | 2 × Elite |
+| Templar Caste (Faction Card) | 1 | Yes | 3 × Core, 2 × Support, 1 × Hero |
+| Templar Archives | 1 | Yes | 2 × Support |
 
 **Khalai (Faction Card)**
 - **PYLON WARP-IN:** ACTIVE If there is no Friendly Pylon on the battlefield, set a Friendly Pylon Unit anywhere on the GROUND LEVEL of the battlefield, more than 10" away from any Enemy model. This Round, the Pylon is not eligible to use its Special Abilities (excluding Structure).
@@ -340,6 +408,13 @@ No upgrades.
 
 **Robotics Facility**
 - **PLASMA SHIELDS:** REACTION Use before a Friendly Mechanical Ground Unit makes an Armour Roll. If this Unit has the Shielded Status, it gains TOUGH (1) and DODGE (1) for this roll.
+
+**Templar Caste (Faction Card)**
+- **OUR DUTY IS UNENDING:** ACTIVE Once per Game. Select up to two of your Exhausted Tactical Cards. Return them to the Ready state.
+- **KHASSAR DE TEMPLARI:** ACTIVE Instead of performing an action, select one other Friendly Biological Unit that has already been Activated this Phase. That Unit immediately performs one action available in the current Phase, then suffers NON-LETHAL DAMAGE (3).
+
+**Templar Archives**
+- **ANCESTRAL WISDOM:** REACTION Once per Round, when a Friendly Support Unit activates a Special Ability that costs PE, resolve that ability with its PE cost reduced by 1 (to a minimum of 0). Do not Exhaust this card.
 
 ---
 
