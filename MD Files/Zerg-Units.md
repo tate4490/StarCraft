@@ -19,6 +19,10 @@ Source: Zerg P2P Card Sheets (A4) and Zerg P2P W2 Card Sheets (A4). Card text is
 | Raptor (Zergling) | 1 | 6+ | 4+ | 1 | 5/9 | Elite | Damage Dealer | Biological, Light, Ground | Zerg |
 | Swarmling (Zergling) | 1 | 6+ | 5+ | 1 | 4/8 | Core | Damage Dealer | Biological, Light, Ground | Zerg |
 | Ravager | 9 | 5+ | 5+ | 3 | 4/8 | Core | Tactician | Armoured, Biological, Ground | Zerg |
+| Zagara | 10 | 4+ | 6+ | 3 | 7 | Hero | Tactician | Biological, Psionic, Ground | Zerg |
+| Defiler | 8 | 5+ | 5+ | 2 | 7 | Support | Lifesaver | Biological, Light, Psionic, Ground | Zerg |
+| Vileling (Zergling) | 1 | 6+ | 5+ | 1 | 4/8 | Core | Damage Dealer | Biological, Light, Ground | Zerg, Zagara's Swarm |
+| Bile Launcher | 10 | 4+ | - | 3 | - | - | Damage Dealer | Armoured, Biological, Ground | Zerg |
 
 ---
 
@@ -303,6 +307,114 @@ No upgrades.
 
 ---
 
+## Zagara
+
+**Any Phase**
+- **COMMANDER:** PASSIVE Treat this Unit's Supply characteristic as increased by 1 for Controlling and Contesting Mission Markers, completing objectives, and resolving Disengage checks.
+- **TRANSFUSION:** REACTION 1 BM Use when another Friendly Biological Unit (including a Structure) suffers Damage Within 4". Reduce the Total Damage before allocation by 2.
+- **PSIONIC LINK:** PASSIVE Once per Round, if there are at least 7 Friendly models Within 6" of this Unit, it may resolve its Special Ability with the BM cost reduced by 1.
+
+**Movement Phase**
+- **INFESTED DROP:** PASSIVE The base of the Zagara counts as an Entry Edge. Each Round, Friendly Units with a combined Supply cost of 1 may be Deployed via this Entry Edge.
+
+**Assault Phase**
+- **INDOMITABLE:** PASSIVE While Engaged, this Unit may target and be targeted by Unengaged Enemy Units. In both cases, the defending Unit gains an Evade Roll against those attacks.
+- **DEVASTATING CHARGE:** PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (6) 3+ effect.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | ZAGARA'S TALONS | 8 | Ground | 4 | 3+ | Light, Armoured | D3 | 2 | - |
+| Assault | ZAGARA'S ACID SPINES | 14 | Flying | 8 | 3+ | Light, Armoured | D3 | 1 | - |
+| Combat | TALONS | E | Ground | 4 | 3+ | - | - | 1 | - |
+
+**Upgrades**
+- **BROODMOTHER:** ACTIVE 1 BM Apply one of the following effects to all Friendly units (Line of Sight is not required). You cannot apply the effect chosen in the previous Game Round:
+  - Units of Size 1 gain a +1 Modifier to all IMPACT Rolls.
+  - All weapons of Size 2 Units gain CRITICAL HIT (1).
+  - Units of Size 3 or more gain TOUGH (1).
+
+---
+
+## Defiler
+
+**Any Phase**
+- **CONSUME:** PASSIVE When this Unit resolves a Special Ability that costs BM, it can remove one model from a Friendly Unit Within 4" to generate 1 BM to spend towards that ability's cost.
+
+**Movement Phase**
+- **GESTATE DARK SWARM:** ACTIVE 0 BM Set a Dark Swarm token in an unoccupied space Within 4" and Line of Sight of this Unit. The Dark Swarm token has DISPLACEMENT.
+
+**Assault Phase**
+- **DARK SWARM:** REACTION 1 BM REPEATABLE. Use when a Friendly Unit Within 4" of a Friendly Dark Swarm token is selected as the target of an attack. If this Unit is Within 4" of the same token, the Targeted Friendly Unit is eligible to make an Evade Roll against that attack. If the targeted Unit is a Size 1, it gains a +1 Modifier to this Evade Roll.
+- **DEVASTATING CHARGE:** PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (4) 4+ effect.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Combat | CLAWS | E | Ground | 4 | 3+ | - | - | 1 | - |
+
+**Upgrades**
+- **BURROW AMBUSH:** PASSIVE When this Unit is nominated to deploy from Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be placed Within 10" of any Enemy model. This Unit's Activation ends.
+- **PLAGUE:** ACTIVE X BM You may spend 1 to 3 BM to activate this ability. Set a Plague Blast Template Wholly Within 10" and Line of Sight of this Unit. For each Unit that has at least one model whose base is partially covered by the template, roll 2 dice, plus 1 additional die for each model in that Unit whose base is partially covered. That Unit loses its HIDDEN Status, and, depending on the BM spent, it suffers NON-LETHAL DAMAGE (1) for:
+  - 1 BM: each result of 5+.
+  - 2 BM: each result of 4+.
+  - 3 BM: each result of 3+.
+- **CANCEROUS BITE** (Upgrade for CLAWS, Combat Phase): E, Ground, RoA 2, Hit 3+, S Dice -, Dmg 2, Keyword CRITICAL HIT (1), SIDEARM.
+
+---
+
+## Vileling (Zergling)
+
+**Any Phase**
+- **SQUADRON:** PASSIVE This Unit's Horizontal Coherency is 4".
+
+**Movement Phase**
+- **ZERGLING** *(label printed on the card)*
+- **RECONSTITUTION:** ACTIVE 1 BM Resolve the RESPAWN (2) effect, or RESPAWN (3) if the Unit is ON CREEP.
+- **BURROW AMBUSH:** PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10" of any Enemy model. This Unit's Activation ends.
+
+**Assault Phase**
+- **DEVASTATING CHARGE:** PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (1) 5+ effect.
+- **METABOLIC BOOST:** ACTIVE 1 BM When determining Charge Distance for this Unit, roll 2D6 instead of D6 and use the higher result to add to the Unit's Speed characteristic.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Combat | CLAWS | E | Ground | 2 | 5+ | - | - | 1 | - |
+
+- **DEBILITATING CLAWS:** PASSIVE After an Enemy Unit suffers Damage from this Unit, apply DEBUFF Hit (1) to each of that Unit's Weapons.
+
+No upgrades.
+
+---
+
+## Bile Launcher
+
+**Any Phase**
+- **BIOLOGICAL STRUCTURE:** PASSIVE This Unit cannot gain the BURROWED Status, cannot be returned to Reserves, and is immune to the IMPACT keyword.
+- **DETECTION:** PASSIVE While Enemy Units are Within 6" of this Unit, they lose the HIDDEN Status.
+- **SOURCE OF CREEP:** PASSIVE A Friendly or Enemy Ground Zerg Unit Within 6" of this Unit counts as being ON CREEP.
+
+**Movement Phase**
+- **BURROW AMBUSH:** PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10" of any Enemy model. This Unit's Activation ends.
+- **BOMBARD:** ACTIVE 1 BM Set a Bile Bomb token on the battlefield Within 24" of this Unit. When this Unit resolves a Ranged Attack using the Bile Bomb weapon profile this Round, it may choose to ignore the weapon's standard Range characteristic. If it does, it may target an Enemy Unit that is Within 3" of that token (Line of Sight is not required), ignoring the HIDDEN Status. After the attack is fully resolved, remove the Bile Bomb token from the battlefield. When the Bile Bomb token is about to be removed, set a Creep Tumor token in base-to-base contact with it. The Bile Bomb token has DISPLACEMENT.
+
+**Assault Phase**
+- **INDOMITABLE:** PASSIVE While Engaged, this Unit may target and be targeted by Unengaged Enemy Units. In both cases, the defending Unit gains an Evade Roll against those attacks.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | BILE BOMB | 12 | Ground | 6 | 3+ | Light, Armoured | D3 | 1 | PIERCE Armoured (2), PINPOINT |
+
+No upgrades.
+
+---
+
 ## Zerg Tactical Cards
 
 *Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
@@ -319,6 +431,7 @@ No upgrades.
 | Spawning Pool | 1 | No | 1 × Core |
 | Spawning Pool (Six Pool) | 2 | Yes | 2 × Core |
 | Cocoon | N/A | Yes | 1 × Elite |
+| Defiler Mound | 1 | Yes | 1 × Elite, 1 × Support |
 
 **Evolution Chamber**
 - **CARAPACE:** REACTION Use before a Friendly Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.
@@ -359,6 +472,12 @@ No upgrades.
 
 ---
 
+**Defiler Mound**
+- **ESSENCE:** ACTIVE Set a Faction Indicator on the active Friendly Unit. At the end of the Assault Phase, all Biological Enemy Units Engaged with the marked Unit suffer NON-LETHAL DAMAGE (2).
+- **TUNNEL NETWORK:** ACTIVE The active, Unengaged Ground Unit is returned to Reserves instead of performing an action.
+
+*(Card label printed above ESSENCE: POISONOUS.)*
+
 ## Zerg Faction Cards
 
 *Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
@@ -366,6 +485,7 @@ No upgrades.
 | Card | Resource (BM) | Unique | Army Slot Requirement |
 |---|---|---|---|
 | Zerg Swarm | 1 | Yes | 3 × Core, 1 × Elite, 1 × Support, 1 × Air |
+| Zagara's Swarm | 1 | Yes | 4 × Core, 1 × Support, 1 × Hero |
 | Kerrigan's Swarm | 1 | Yes | 3 × Core, 2 × Elite, 1 × Hero |
 
 **Zerg Swarm**
@@ -380,11 +500,17 @@ No upgrades.
 
 ---
 
+**Zagara's Swarm (Faction Card)**
+- **INSTINCTIVE REACTION:** REACTION Use when an Enemy Unit declares a Close Combat Attack against a Friendly Unit. That Friendly Unit becomes eligible to make an Evade Roll against that attack.
+- **ZERG CREEP:** PASSIVE During Army Building, select exactly one Creep Card and add it to their Army List, paying its listed cost (if any).
+- **SCOURGE QUEEN:** ACTIVE If the active Unit contains more models than the combined number of models in all Engaged Enemy Units, its Close Combat Weapons gain INSTANT and PRECISION (4).
+
 ## Zerg Creep Cards
 
 | Card | Unique | Army Slot Requirement |
 |---|---|---|
 | Malignant Creep | Yes | - |
+| Reactive Creep | Yes | - |
 | Accelerating Creep | Yes | - |
 
 **Malignant Creep**
@@ -398,6 +524,11 @@ No upgrades.
 - **CREEP REMOVAL:** PASSIVE If an Enemy Unit ends a Move, Deploy, Run, Charge or Disengage action Within 1" of a Friendly Creep Tumor token, remove that token from the battlefield.
 
 ---
+
+**Reactive Creep (Creep Card)**
+- **REACTIVE TISSUE:** PASSIVE While a Friendly Zerg Unit is ON CREEP, it gains DODGE (1) against any attacks targeting it.
+- **LIVING GLOB OF TISSUE:** PASSIVE Creep Tumor tokens have STAY IN PLAY and DISPLACEMENT.
+- **CREEP REMOVAL:** PASSIVE If an Enemy Unit ends a Move, Deploy, Run, Charge or Disengage action Within 1" of a Friendly Creep Tumor token, remove that token from the battlefield.
 
 ## Open Items
 
