@@ -2,7 +2,7 @@
 
 Source: Scenario Cards - Mission & Deployment pages on the Terran, Zerg, and Protoss P2P Card Sheets (A4), plus the Protoss P2P W2 Card Sheet for Artefact Hunt. Card text is transcribed from the card sheets.
 
-Mission cards other than Artefact Hunt print the same text on the Terran, Zerg, and Protoss sheets. Artefact Hunt appears on the Protoss sheet only. Deployment cards are graphical and are not transcribed here.
+Mission cards other than Artefact Hunt and Fire in the Sky print the same text on the Terran, Zerg, and Protoss sheets. Artefact Hunt appears on the Protoss sheet only. Deployment cards are graphical and are not transcribed here.
 
 ## Mission Card Index
 
@@ -14,6 +14,7 @@ Mission cards other than Artefact Hunt print the same text on the Terran, Zerg, 
 | Gather the Resources | 6 / +2 / 5 | 3 / +1 / 5 | 10+ VPs / 8+ VPs |
 | Divide and Conquer | 8 / +2 / 4 | 4 / +1 / 4 | 10+ VPs / 8+ VPs |
 | Artefact Hunt | 6 / +2 / 5 | 3 / +1 / 5 | See card |
+| Fire in the Sky | 5 / +3 / 5 | 3 / +2 / 5 | 10+ VPs / 8+ VPs |
 
 ---
 
@@ -112,3 +113,21 @@ Protoss P2P W2 Card Sheet. Transcribed from a lower-resolution render than the o
 - **Mission Parameters:** All Mission Markers are Activated.
 - **Scoring Conditions:** Score VPs equal to Enemy Supply destroyed this Round. END OF ROUND 5: Gain 3 VP for each Friendly Unit that CLAIM Mission Marker and it is Wholly Within Friendly Zone of Influence. Gain 1 VP for each Friendly Mission Marker associated with your colour that is not currently CLAIM by an Enemy Unit.
 - **Additional Conditions:** SCORING PHASE: From the Start of the Second Round, if a Unit is Within 3" of a Controlled Mission Marker that is Neutral or associated with the Opponent colour, that Unit may CLAIM it. CLAIM: Place the Mission Marker on the Unit Card. A Unit carrying a Mission Marker must DROP it if: It has its Current Supply Value reduced. Before it resolves a PLACE effect. It is Engaged with Enemies having a greater combined Current Supply Value. It is Destroyed, removed from the battlefield, or returned to Reserves. When a Unit DROPs a Mission Marker, the Opponent places the Mission Marker Within 2" of the Unit or its last model removed. Unit may CLAIM only one Mission Marker at a time.
+
+---
+
+## Fire in the Sky
+
+Terran P2P W3 Card Sheet.
+
+**Standard Engagement** (Supply 5, Per Round +3, Game Length 5)
+
+- **Mission Parameters:** All Mission Markers are Activated. During battlefield setup, place a D6 next to each Mission Marker to track its Sabotage Level. Set the starting Sabotage Level of each Mission Marker to 1.
+- **Scoring Conditions:** Score VPs equal to Enemy Supply destroyed this Round. FROM THE START OF THE SECOND ROUND: Gain VP for each Controlled Mission Marker that is Neutral or associated with the Opponent colour. The VP gained is equal to the Sabotage Level on the marker. Sabotage Level 3 = 3 VP. Sabotage Level 2 = 2 VP. Sabotage Level 1 = 1 VP.
+- **Additional Conditions:** ASSAULT PHASE: If an Unengaged Unit is Within 3" of a Controlled Mission Marker, this unit may perform Sabotage Action instead of a standard action. SABOTAGE ACTION: Decrease or Increase that Mission Marker's Sabotage Level by 1 (to a minimum of 1 or maximum of 3). SPECIAL WINNING CONDITIONS: The game ends immediately if a Player leads by 10+ VPs.
+
+**Skirmish Level** (Supply 3, Per Round +2, Game Length 5)
+
+- **Mission Parameters:** All Mission Markers are Activated. During battlefield setup, place a D6 next to each Mission Marker to track its Sabotage Level. Set the starting Sabotage Level of each Mission Marker to 1.
+- **Scoring Conditions:** Score VPs equal to Enemy Supply destroyed this Round. FROM THE START OF THE SECOND ROUND: Gain VP for each Controlled Mission Marker that is Neutral or associated with the Opponent colour. The VP gained is equal to the Sabotage Level on the marker. Sabotage Level 3 = 3 VP. Sabotage Level 2 = 2 VP. Sabotage Level 1 = 1 VP.
+- **Additional Conditions:** ASSAULT PHASE: If an Unengaged Unit is Within 3" of a Controlled Mission Marker, this unit may perform Sabotage Action instead of a standard action. SABOTAGE ACTION: Decrease or Increase that Mission Marker's Sabotage Level by 1 (to a minimum of 1 or maximum of 3). SPECIAL WINNING CONDITIONS: The game ends immediately if a Player leads by 8+ VPs.

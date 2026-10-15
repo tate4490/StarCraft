@@ -1,6 +1,6 @@
 # StarCraft TMG: Terran Units and Cards
 
-Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`. Supply Values per model count are also in the cost table.
+Source: Terran P2P Card Sheets (A4), Terran P2P W2 Card Sheets (A4), and Terran P2P W3 Card Sheets (A4). Card text is transcribed from the card sheets. Costs are not included; see `SCTMG Cost Table.md`. Supply Values per model count are also in the cost table.
 
 ## Unit Statistics
 
@@ -14,6 +14,13 @@ Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card tex
 | Raynor's Raider | 2 | 5+ | 5+ | 2 | 4/7 | Core | Damage Dealer | Biological, Light, Ground | Terran, Raynor's Raiders |
 | Goliath | 10 | 4+ | - | 3 | 7 | Elite | Damage Dealer | Armoured, Mechanical, Ground | Terran |
 | Siege Tank | 14 | 5+ | - | 2 | 7 | Elite | Damage Dealer | Armoured, Mechanical, Ground | Terran |
+| Nova Stealth Mode | 8 | 5+ | 5+ | 2 | 7 | Hero | Damage Dealer | Biological, Psionic, Ground | Terran |
+| Nova Assault Mode | 8 | 5+ | 5+ | 2 | 7 | Hero | Damage Dealer | Biological, Psionic, Ground | Terran |
+| Holo Decoy | 1 | 6+ | 6+ | 2 | 7 | - | Tactician | Psionic, Ground | Terran |
+| Sabotage Drone | 3 | 6+ | 6+ | 1 | - | - | Damage Dealer | Armoured, Mechanical, Ground | Terran, Nova Covert Ops |
+| Spec Ops Marauder (Marauder) | 5 | 4+ | 6+ | 2 | 4/7 | Core | Damage Dealer | Armoured, Biological, Ground | Terran, Nova Covert Ops |
+| Raven | 8 | 5+ | 6+ | - | 7 | Support | Tactician | Light, Mechanical, Flying | Terran |
+| Auto-Turret | 3 | 5+ | - | 2 | - | - | Damage Dealer | Armoured, Mechanical, Ground | Terran |
 
 ---
 
@@ -210,6 +217,137 @@ Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card tex
 
 ---
 
+## Nova Stealth Mode
+
+**Any Phase**
+- **BATTLE PREPARATION:** PASSIVE During Army Building, your army cannot include both the Nova Assault Mode Unit and the Nova Stealth Mode Unit.
+- **TACTICAL STEALTH SUIT:** PASSIVE After this Unit fully resolves an Action, it gains the HIDDEN Status.
+- **GHOST VISOR:** PASSIVE While Enemy Units are Within 6" of this Unit, they lose the HIDDEN Status.
+
+**Movement Phase**
+- **SUPER STIMPACK:** ACTIVE 1 CP This Unit gains BUFF Speed (2). Additionally, all its Weapons gain PRECISION (2).
+- **HOLO DECOY:** ACTIVE 1 CP Resolve the SUMMON (Holo Decoy) effect. Then, Holo Decoy may immediately perform a Move action.
+
+**Assault Phase**
+- **OPERATIONAL EFFICIENCY:** PASSIVE After this Unit fully resolves a Ranged Attack with its C-20A Canister Rifle, if the target Enemy Unit was Destroyed or its Current Supply Value was reduced, the active player may return one of their Exhausted non-Unique Tactical Cards to its Ready state.
+- **HEAD SHOT:** REACTION 1 CP Once Per Game. While this Unit is Unengaged and has the Stationary Status, when it makes a Ranged Attack with its C-20A Canister Rifle, treat that weapon's Damage characteristic as 3, and it gains CONCENTRATED FIRE (1).
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | C-20A Canister Rifle | 12 | All | 4 | 3+ | - | - | 2 | CRITICAL HIT (2), LONG RANGE (18") |
+| Combat | Combat Knife | E | Ground | 3 | 5+ | - | - | 1 | - |
+
+---
+
+## Nova Assault Mode
+
+**Any Phase**
+- **BATTLE PREPARATION:** PASSIVE During Army Building, your army cannot include both the Nova Assault Mode Unit and the Nova Stealth Mode Unit.
+- **GHOST VISOR:** PASSIVE While Enemy Units are Within 6" of this Unit, they lose the HIDDEN Status.
+
+**Movement Phase**
+- **SUPER STIMPACK:** ACTIVE 1 CP This Unit gains BUFF Speed (2). Additionally, all its Weapons gain PRECISION (2).
+- **HOLO DECOY:** ACTIVE 1 CP Resolve the SUMMON (Holo Decoy) effect. Then, Holo Decoy may immediately perform a Move action.
+
+**Assault Phase**
+- **PHASE REACTOR SUIT:** ACTIVE 1 CP If Unengaged, resolve the PLACE (6) effect.
+- **DEVASTATING CHARGE:** PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (4) 4+ effect.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Hellfire Shotgun | 8 | Ground | 3 | 4+ | Light | D3 | 2 | ANTI-EVADE (1), BURST FIRE 4" (3) |
+| Combat | Monomolecular Blade | E | Ground | 8 | 3+ | Light, Armoured | D6 | 1 | - |
+
+---
+
+## Holo Decoy
+
+**Any Phase**
+- **TIMED LIFE:** PASSIVE Remove this Unit at the End of the Round.
+- **DECOY:** PASSIVE This Unit is never Engaged. It cannot Engage Enemy Units, cannot be Engaged by Enemy Units and cannot perform a Charge Action. This Unit cannot be the target of an ability, unless stated otherwise. It can never Control or Contest Mission Markers.
+- **SURPRISE!:** PASSIVE At the End of the Round, you can set a Friendly Nova Stealth Mode or Nova Assault Mode in Coherency with this Unit.
+- **LETHAL HOLOGRAM:** PASSIVE All Weapons of Friendly Units targeting an Enemy Unit Within 4" of this Unit gain PRECISION (1).
+
+---
+
+## Sabotage Drone
+
+**Any Phase**
+- **STRUCTURE:** PASSIVE This Unit cannot be Activated in any Phase and cannot perform actions. Additionally, its Current Supply Value is treated as 0, and it can never Control or Contest Mission Markers, ignoring the standard Zero Supply Exception. This Unit cannot be a target of an ability, unless stated otherwise.
+
+**Assault Phase**
+- **HAVE A NICE DAY:** PASSIVE At the End of the Assault Phase, target each Unit Within 3" of this Unit (including Units with the Structure ability) suffers HITS 5 (1). If an affected Unit has the Structure ability, that Unit suffers an additional HITS 5 (1).
+
+---
+
+## Spec Ops Marauder (Marauder)
+
+**Any Phase**
+- **SPEC OPS ARMOUR:** ACTIVE 1 CP This Unit gains the HIDDEN Status until it performs another action.
+
+**Movement Phase**
+- **COMMANDO STIMPACK:** ACTIVE 1 CP This Unit gains BUFF Speed (3). Additionally, its Quad K12 and all Close Combat Weapons gain PRECISION (2).
+
+**Assault Phase**
+- **MAGRAIL MUNITIONS:** PASSIVE This Unit's first Attack in the game with its Quad K12 gains PIERCE Armoured (3).
+- **SUPPRESSION SHELLS:** REACTION 1 CP When an Enemy declares a Charge against a Friendly Unit Within 8", that Enemy gains DEBUFF Speed (3).
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Quad K12 | 12 | Ground | 3 | 3+ | Armoured | D3 | 1 | LONG RANGE (16"), PIERCE Armoured (2) |
+| Combat | Strike | E | Ground | 3 | 4+ | - | - | 1 | - |
+
+---
+
+## Raven
+
+**Any Phase**
+- **DETECTION:** PASSIVE While Enemy Units are Within 6" of this Unit, they lose the HIDDEN Status.
+
+**Movement Phase**
+- **DEPLOY AUTO-TURRET:** ACTIVE 1 CP Set a Friendly Auto-Turret Unit Within 6", and not Within the Engagement Range of any Enemy Unit.
+- **ANTI-ARMOUR MISSILE:** ACTIVE 1 CP Select one Enemy Unit Within 12". Apply DEBUFF Armour (1).
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Railguns | 12 | Ground | 4 | 3+ | - | - | 1 | - |
+
+**Upgrades**
+
+| Upgrade | Phase | Card Text |
+|---|---|---|
+| Corvid Reactor | Any Phase | PASSIVE: This Unit may resolve its first Special Ability with the CP cost reduced by 1 if it targets the closest Enemy Unit. |
+| Internal Tech Module | Movement Phase | PASSIVE: When this Unit is nominated to deploy from Reserves, it may Deploy from any table edge that is not a player's Entry Edge. This Unit cannot be set Within 8" of any Enemy model. |
+| Seeker Missile | Movement Phase | ACTIVE 1 CP: Select one Enemy Unit Within 12". At the End of the Assault Phase, if that Enemy Unit has the Stationary Status or it is Within 8" of this Unit, it suffers HITS 4 (2). If that Unit is Engaged, it is eligible to make an Evade Roll against these hits. |
+| Explosive Shrapnel Shells | Assault Phase | PASSIVE: The Gauss Cannon of the Auto-Turret set by this Unit gains Surge Type: Light and S-Dice: D3+1. |
+
+---
+
+## Auto-Turret
+
+**Any Phase**
+- **TIMED LIFE:** PASSIVE Remove this Unit at the End of the Round.
+- **STRUCTURE:** PASSIVE This Unit cannot be Activated in any Phase and cannot perform actions. Additionally, its Current Supply Value is treated as 0, and it can never Control or Contest Mission Markers, ignoring the standard Zero Supply Exception. This Unit cannot be a target of an ability, unless stated otherwise.
+
+**Assault Phase**
+- **OVERWATCH:** REACTION 0 CP Use when an Enemy Unit ends its Activation Within 8" of this Unit. This Unit immediately performs a Ranged Attack against that Enemy Unit.
+
+**Weapons**
+
+| Phase | Name | RNG | Target | RoA | Hit | Surge Type | S Dice | Dmg | Keyword |
+|---|---|---|---|---|---|---|---|---|---|
+| Assault | Gauss Cannon | 8 | All | 6 | 3+ | - | - | 1 | PINPOINT |
+
+---
+
 ## Terran Tactical Cards
 
 *Resource value printed on the card (a resource the card may provide, not a cost). Not every card prints one.*
@@ -227,6 +365,7 @@ Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card tex
 | Dropship | 1 | Yes | 1 × Core, 1 × Support |
 | Supply Depot | 1 | Yes | 1 × Core, 1 × Elite, 1 × Hero |
 | Orbital Command | 1 | Yes | 1 × Core |
+| Vanadium Plating | 1 | No | 1 × Support |
 
 **Academy**
 - **ADVANCED TRAINING:** REACTION Once per Round, when a Friendly Support Unit activates a Special Ability that costs CP, resolve that ability with its CP cost reduced by 1 (to a minimum of 0). Do not Exhaust this card.
@@ -268,6 +407,9 @@ Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card tex
 - **COMSAT STATION:** ACTIVE Select one table edge that is not a player's Entry Edge. Until the End of the Round, Enemy Units cannot Deploy from that edge.
 - **SCANNER SWEEP:** ACTIVE Set a Faction Indicator anywhere on the battlefield. While Enemy Units are Within 6" of this Faction Indicator, they lose HIDDEN Status.
 
+**Vanadium Plating**
+- **CRYSTALLINE ALLOY:** REACTION Use before a Friendly Mechanical Unit makes an Armour Roll. That Unit gains DODGE (2) for this roll.
+
 ---
 
 ## Terran Faction Cards
@@ -285,3 +427,10 @@ Source: Terran P2P Card Sheets (A4) and Terran P2P W2 Card Sheets (A4). Card tex
 - CP: 1
 - **RAPID INGRESS:** ACTIVE Set a Friendly Point Defence Drone Unit anywhere on the battlefield, more than 1" away from any Enemy model. Remove this Unit at the End of the Round.
 - **READY FOR PICKUP?:** ACTIVE Once Per Game. The active Unit resolves the PLACE (12) effect. Models set by this effect cannot be set up Within the Engagement Range of any Enemy Unit. This resolves instead of performing a standard action.
+
+**Nova Covert Ops**
+- Unique, Terran faction and Nova Covert Ops
+- Supply: 3 × Core, 1 × Elite, 1 × Support, 1 × Hero
+- CP: 1
+- **GRIFFIN SUPPORT:** ACTIVE Set a Friendly Sabotage Drone Unit Within 12" of a Friendly Unit, more than 1" away from any Enemy model. Remove this Unit at the End of the Round.
+- **MARK FOR DEATH:** ACTIVE Target an Enemy Unit on the battlefield. When a Friendly Unit makes an Attack targeting that Unit, its first Melee or Ranged Weapon used gains CRITICAL HIT (1) and PRECISION (1).
