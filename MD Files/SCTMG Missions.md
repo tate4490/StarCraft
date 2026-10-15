@@ -2,7 +2,7 @@
 
 Source: Scenario Cards - Mission & Deployment pages on the Terran, Zerg, and Protoss P2P Card Sheets (A4), plus the Protoss P2P W2 Card Sheet for Artefact Hunt. Card text is transcribed from the card sheets.
 
-Mission cards other than Artefact Hunt and Fire in the Sky print the same text on the Terran, Zerg, and Protoss sheets. Artefact Hunt appears on the Protoss sheet only. Deployment cards are graphical and are not transcribed here.
+Mission cards other than Artefact Hunt and Fire in the Sky print the same text on the Terran, Zerg, and Protoss sheets. Artefact Hunt appears on the Protoss sheet only. Fire in the Sky appears on the Terran W3 sheet only. Deployment cards are graphical and are not transcribed here.
 
 ## Mission Card Index
 
@@ -124,10 +124,10 @@ Terran P2P W3 Card Sheet.
 
 - **Mission Parameters:** All Mission Markers are Activated. During battlefield setup, place a D6 next to each Mission Marker to track its Sabotage Level. Set the starting Sabotage Level of each Mission Marker to 1.
 - **Scoring Conditions:** Score VPs equal to Enemy Supply destroyed this Round. FROM THE START OF THE SECOND ROUND: Gain VP for each Controlled Mission Marker that is Neutral or associated with the Opponent colour. The VP gained is equal to the Sabotage Level on the marker. Sabotage Level 3 = 3 VP. Sabotage Level 2 = 2 VP. Sabotage Level 1 = 1 VP.
-- **Additional Conditions:** ASSAULT PHASE: If an Unengaged Unit is Within 3" of a Controlled Mission Marker, this unit may perform Sabotage Action instead of a standard action. SABOTAGE ACTION: Decrease or Increase that Mission Marker's Sabotage Level by 1 (to a minimum of 1 or maximum of 3). SPECIAL WINNING CONDITIONS: The game ends immediately if a Player leads by 10+ VPs.
+- **Additional Conditions:** ASSAULT PHASE: If an Unengaged Unit is Within 3" of a Controlled Mission Marker, this unit may perform Sabotage Action instead of a standard action. Sabotage Action: Decrease or Increase that Mission Marker's Sabotage Level by 1 (to a minimum of 1 or maximum of 3). SPECIAL WINNING CONDITIONS: The game ends immediately if a Player leads by 10+ VPs.
 
 **Skirmish Level** (Supply 3, Per Round +2, Game Length 5)
 
 - **Mission Parameters:** All Mission Markers are Activated. During battlefield setup, place a D6 next to each Mission Marker to track its Sabotage Level. Set the starting Sabotage Level of each Mission Marker to 1.
 - **Scoring Conditions:** Score VPs equal to Enemy Supply destroyed this Round. FROM THE START OF THE SECOND ROUND: Gain VP for each Controlled Mission Marker that is Neutral or associated with the Opponent colour. The VP gained is equal to the Sabotage Level on the marker. Sabotage Level 3 = 3 VP. Sabotage Level 2 = 2 VP. Sabotage Level 1 = 1 VP.
-- **Additional Conditions:** ASSAULT PHASE: If an Unengaged Unit is Within 3" of a Controlled Mission Marker, this unit may perform Sabotage Action instead of a standard action. SABOTAGE ACTION: Decrease or Increase that Mission Marker's Sabotage Level by 1 (to a minimum of 1 or maximum of 3). SPECIAL WINNING CONDITIONS: The game ends immediately if a Player leads by 8+ VPs.
+- **Additional Conditions:** ASSAULT PHASE: If an Unengaged Unit is Within 3" of a Controlled Mission Marker, this unit may perform Sabotage Action instead of a standard action. Sabotage Action: Decrease or Increase that Mission Marker's Sabotage Level by 1 (to a minimum of 1 or maximum of 3). SPECIAL WINNING CONDITIONS: The game ends immediately if a Player leads by 8+ VPs.
